@@ -134,6 +134,7 @@ def get_datamodule_from_argparse_args(
         "pointer_generator_transformer",
         "transducer",
     ]
+
     datamodule = data.DataModule(
         train=args.train,
         val=args.val,
@@ -244,6 +245,7 @@ def get_model_from_argparse_args(
         source_vocab_size=source_vocab_size,
         start_idx=datamodule.index.start_idx,
         target_vocab_size=datamodule.index.target_vocab_size,
+        unsupervised_task=args.unsupervised_task
     )
 
 

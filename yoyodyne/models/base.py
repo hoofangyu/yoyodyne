@@ -57,6 +57,7 @@ class BaseEncoderDecoder(pl.LightningModule):
     def __init__(
         self,
         *,
+        unsupervised_task,
         pad_idx,
         start_idx,
         end_idx,
@@ -86,6 +87,7 @@ class BaseEncoderDecoder(pl.LightningModule):
     ):
         super().__init__()
         # Symbol processing.
+        self.unsupervised_task = unsupervised_task
         self.pad_idx = pad_idx
         self.start_idx = start_idx
         self.end_idx = end_idx
@@ -151,6 +153,13 @@ class BaseEncoderDecoder(pl.LightningModule):
             else None
         )
         self.decoder = self.get_decoder()
+
+        # Decoder for autoencoding task
+        self.autoencoder_decoder = nn.Sequential(
+            nn.Linear(self.hidden_size*2, self.source_vocab_size),
+            nn.Softmax()
+        )
+
         # Saves hyperparameters for PL checkpointing.
         self.save_hyperparameters(
             ignore=["source_encoder", "decoder", "features_encoder"]
@@ -254,12 +263,22 @@ class BaseEncoderDecoder(pl.LightningModule):
         Returns:
             torch.Tensor: loss.
         """
+        # Forward Pass for Supervised Task
         # -> B x seq_len x target_vocab_size.
         predictions = self(batch)
         target_padded = batch.target.padded
         # -> B x target_vocab_size x seq_len. For loss.
         predictions = predictions.transpose(1, 2)
         loss = self.loss_func(predictions, target_padded)
+        
+        # Forward Pass for Unsupervised Task
+        if self.unsupervised_task == "autoencoder":    
+            unsupervised_target_padded = batch.source.padded
+            encoded_source = self.source_encoder(batch.source)
+            reconstructed = self.autoencoder_decoder(encoded_source.output)
+            reconstructed = reconstructed.transpose(1,2)
+            loss += self.loss_func(reconstructed, unsupervised_target_padded)
+
         self.log(
             "train_loss",
             loss,
@@ -454,6 +473,14 @@ class BaseEncoderDecoder(pl.LightningModule):
         Args:
             parser (argparse.ArgumentParser).
         """
+        # Learning arguments
+        parser.add_argument( #Added unsupervised task
+            "--unsupervised_task",
+            choices=["autoencoder"],
+            default=defaults.UNSUPERVISED_TASK,
+            help="Unsupervised task to use for training (if any).",
+        )
+
         # Optimizer arguments.
         parser.add_argument(
             "--beta1",

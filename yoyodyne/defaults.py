@@ -36,6 +36,7 @@ MAX_TARGET_LENGTH = 128
 EVAL_METRICS = set()
 
 # Training arguments.
+UNSUPERVISED_TASK = None #Added Unsupervised Task
 BATCH_SIZE = 32
 BETA1 = 0.9
 BETA2 = 0.999
