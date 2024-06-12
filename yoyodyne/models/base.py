@@ -62,6 +62,7 @@ class BaseEncoderDecoder(pl.LightningModule):
         start_idx,
         end_idx,
         source_vocab_size,
+        source_vocab,
         target_vocab_size,
         source_encoder_cls,
         eval_metrics=defaults.EVAL_METRICS,
@@ -92,6 +93,7 @@ class BaseEncoderDecoder(pl.LightningModule):
         self.start_idx = start_idx
         self.end_idx = end_idx
         self.source_vocab_size = source_vocab_size
+        self.source_vocab = source_vocab #added this to include source_vocabulary
         self.features_vocab_size = features_vocab_size
         self.target_vocab_size = target_vocab_size
         self.eval_metrics = eval_metrics
@@ -122,6 +124,13 @@ class BaseEncoderDecoder(pl.LightningModule):
         modules.check_encoder_compatibility(
             source_encoder_cls, features_encoder_cls
         )
+
+        # Update Vocabulary if CMLM is used
+        if self.unsupervised_task == "CMLM":
+            if "<MASK>" not in self.source_vocab._index2symbol:
+                self.source_vocab.update_vocabulary("<MASK>")
+            self.source_vocab_size += 1
+
         # Instantiates encoders class.
         self.source_encoder = source_encoder_cls(
             pad_idx=self.pad_idx,
@@ -154,9 +163,10 @@ class BaseEncoderDecoder(pl.LightningModule):
         )
         self.decoder = self.get_decoder()
 
-        # Decoder for autoencoding task
-        self.autoencoder_decoder = nn.Sequential(
-            nn.Linear(self.hidden_size*2, self.source_vocab_size),
+        # Decoder for unsupervised task
+        hidden = self.hidden_size*(self.source_encoder.num_directions) # Change Input Size depending on whether architecture is bidirectional or not
+        self.unsupervised_decoder = nn.Sequential(
+            nn.Linear(hidden, self.source_vocab_size),
             nn.Softmax()
         )
 
@@ -275,9 +285,31 @@ class BaseEncoderDecoder(pl.LightningModule):
         if self.unsupervised_task == "autoencoder":    
             unsupervised_target_padded = batch.source.padded
             encoded_source = self.source_encoder(batch.source)
-            reconstructed = self.autoencoder_decoder(encoded_source.output)
+            reconstructed = self.unsupervised_decoder(encoded_source.output)
             reconstructed = reconstructed.transpose(1,2)
             loss += self.loss_func(reconstructed, unsupervised_target_padded)
+        elif self.unsupervised_task == "CMLM":
+            random_vocab_idx = []
+            for k,v in self.source_vocab._symbol2index.items():
+                if len(k) == 1:
+                    random_vocab_idx.append(v)
+            
+            masked_tensor = self.CMLM_mask(tokens=batch.source.padded, start_idx=self.start_idx, end_idx=self.end_idx,
+                pad_idx=batch.source.mask, mask_idx=self.source_vocab._symbol2index['<MASK>'], vocab=random_vocab_idx)
+
+            # Update input tensor
+            change_condition = masked_tensor != 0
+            modified_tensor = torch.where(change_condition, masked_tensor, batch.source.padded)
+            unsupervised_target_padded = batch.source.padded.clone()
+            batch.source.padded = modified_tensor
+            
+            encoded_source = self.source_encoder(batch.source)
+            reconstructed = self.unsupervised_decoder(encoded_source.output)
+            reconstructed = reconstructed.transpose(1,2)
+
+            # Calculate loss on masked regions only
+            modified_unsupervised_target_padded = torch.where(change_condition,unsupervised_target_padded,self.pad_idx)
+            loss += self.loss_func(reconstructed,modified_unsupervised_target_padded)
 
         self.log(
             "train_loss",
@@ -465,6 +497,27 @@ class BaseEncoderDecoder(pl.LightningModule):
         )
 
     @staticmethod
+    def CMLM_mask(tokens, start_idx, end_idx, pad_idx, mask_idx, vocab, mask_prob = 0.2):
+        batch_size, seq_length = tokens.shape
+        # Create mask for 20% of non-padding tokens
+        mask = (torch.rand(tokens.size()) < mask_prob) & (tokens != pad_idx) & (tokens != start_idx) & (tokens != end_idx)
+
+        # Create replacing mask 
+        random_tokens = torch.rand(tokens.size())
+        replace_mask = (random_tokens < 0.8) & mask # 80% Special Token
+        random_replace_mask = (random_tokens > 0.8) & (random_tokens <= 0.9) & mask # 10% Random Vocab
+        unchanged_mask = (random_tokens > 0.9) & mask # 10% Unchanged
+
+        # Apply Masks
+        masked_tokens = torch.zeros_like(tokens)
+        masked_tokens[replace_mask] = mask_idx
+        random_tokens = torch.randint(low = vocab[0], high = vocab[-1]+1, size = (batch_size,seq_length))
+        masked_tokens[random_replace_mask] = random_tokens[random_replace_mask]
+        masked_tokens[unchanged_mask] = tokens[unchanged_mask]
+
+        return masked_tokens
+
+    @staticmethod
     def add_argparse_args(parser: argparse.ArgumentParser) -> None:
         """Adds shared configuration options to the argument parser.
 
@@ -476,7 +529,7 @@ class BaseEncoderDecoder(pl.LightningModule):
         # Learning arguments
         parser.add_argument( #Added unsupervised task
             "--unsupervised_task",
-            choices=["autoencoder"],
+            choices=["autoencoder","CMLM"],
             default=defaults.UNSUPERVISED_TASK,
             help="Unsupervised task to use for training (if any).",
         )

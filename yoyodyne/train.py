@@ -243,6 +243,7 @@ def get_model_from_argparse_args(
         source_attention_heads=args.source_attention_heads,
         source_encoder_cls=source_encoder_cls,
         source_vocab_size=source_vocab_size,
+        source_vocab=datamodule.index.source_map,
         start_idx=datamodule.index.start_idx,
         target_vocab_size=datamodule.index.target_vocab_size,
         unsupervised_task=args.unsupervised_task

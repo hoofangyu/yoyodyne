@@ -20,7 +20,12 @@ class SymbolMap:
 
     def __len__(self) -> int:
         return len(self._index2symbol)
-
+    
+    def update_vocabulary(self,token:str) -> None:
+        # Update Vocab if CMLM is selected
+        self._index2symbol.append(token)
+        self._symbol2index = {c: i for i, c in enumerate(self._index2symbol)}
+         
     def index(self, symbol: str, unk_idx: Optional[int] = None) -> int:
         """Looks up index by symbol.
 
