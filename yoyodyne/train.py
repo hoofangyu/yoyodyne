@@ -152,7 +152,7 @@ def get_datamodule_from_argparse_args(
     if not datamodule.has_target:
         raise Error("No target column specified")
     datamodule.index.write(args.model_dir, args.experiment)
-    datamodule.log_vocabularies()
+    #datamodule.log_vocabularies()
     return datamodule
 
 
@@ -392,6 +392,7 @@ def main() -> None:
     trainer = get_trainer_from_argparse_args(args)
     datamodule = get_datamodule_from_argparse_args(args)
     model = get_model_from_argparse_args(args, datamodule)
+    datamodule.log_vocabularies()
     # Logs number of model parameters.
     if args.log_wandb:
         wandb.config["n_model_params"] = sum(

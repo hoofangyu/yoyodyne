@@ -126,7 +126,7 @@ class BaseEncoderDecoder(pl.LightningModule):
         )
 
         # Update Vocabulary if CMLM is used
-        if self.unsupervised_task == "CMLM":
+        if self.unsupervised_task == "CMLM_Full" or self.unsupervised_task == "CMLM_Masked":
             if "<MASK>" not in self.source_vocab._index2symbol:
                 self.source_vocab.update_vocabulary("<MASK>")
             self.source_vocab_size += 1
@@ -288,7 +288,7 @@ class BaseEncoderDecoder(pl.LightningModule):
             reconstructed = self.unsupervised_decoder(encoded_source.output)
             reconstructed = reconstructed.transpose(1,2)
             loss += self.loss_func(reconstructed, unsupervised_target_padded)
-        elif self.unsupervised_task == "CMLM":
+        elif self.unsupervised_task == "CMLM_Full" or self.unsupervised_task == "CMLM_Masked":
             random_vocab_idx = []
             for k,v in self.source_vocab._symbol2index.items():
                 if len(k) == 1:
@@ -308,7 +308,7 @@ class BaseEncoderDecoder(pl.LightningModule):
             reconstructed = reconstructed.transpose(1,2)
 
             # Calculate loss on masked regions only
-            modified_unsupervised_target_padded = torch.where(change_condition,unsupervised_target_padded,self.pad_idx)
+            modified_unsupervised_target_padded = torch.where(change_condition,unsupervised_target_padded,self.pad_idx) if self.unsupervised_task == "CMLM_Masked" else unsupervised_target_padded
             loss += self.loss_func(reconstructed,modified_unsupervised_target_padded)
 
         self.log(
@@ -529,7 +529,7 @@ class BaseEncoderDecoder(pl.LightningModule):
         # Learning arguments
         parser.add_argument( #Added unsupervised task
             "--unsupervised_task",
-            choices=["autoencoder","CMLM"],
+            choices=["autoencoder","CMLM_Full", "CMLM_Masked"],
             default=defaults.UNSUPERVISED_TASK,
             help="Unsupervised task to use for training (if any).",
         )
