@@ -292,7 +292,7 @@ class BaseEncoderDecoder(pl.LightningModule):
             for k,v in self.source_vocab._symbol2index.items():
                 if len(k) == 1:
                     random_vocab_idx.append(v)
-            
+
             masked_tensor = self.CMLM_mask(tokens=batch.source.padded, start_idx=self.start_idx, end_idx=self.end_idx,
                 pad_idx=batch.source.mask, mask_idx=self.source_vocab._symbol2index['<MASK>'], vocab=random_vocab_idx)
 
@@ -499,10 +499,13 @@ class BaseEncoderDecoder(pl.LightningModule):
     def CMLM_mask(tokens, start_idx, end_idx, pad_idx, mask_idx, vocab, mask_prob = 0.2):
         batch_size, seq_length = tokens.shape
         # Create mask for 20% of non-padding tokens
-        mask = (torch.rand(tokens.size()) < mask_prob) & (tokens != pad_idx) & (tokens != start_idx) & (tokens != end_idx)
+
+        device = tokens.device
+
+        mask = (torch.rand(tokens.size(),device = device) < mask_prob) & (tokens != pad_idx) & (tokens != start_idx) & (tokens != end_idx)
 
         # Create replacing mask 
-        random_tokens = torch.rand(tokens.size())
+        random_tokens = torch.rand(tokens.size(),device = device)
         replace_mask = (random_tokens < 0.8) & mask # 80% Special Token
         random_replace_mask = (random_tokens > 0.8) & (random_tokens <= 0.9) & mask # 10% Random Vocab
         unchanged_mask = (random_tokens > 0.9) & mask # 10% Unchanged
@@ -510,7 +513,7 @@ class BaseEncoderDecoder(pl.LightningModule):
         # Apply Masks
         masked_tokens = torch.zeros_like(tokens)
         masked_tokens[replace_mask] = mask_idx
-        random_tokens = torch.randint(low = vocab[0], high = vocab[-1]+1, size = (batch_size,seq_length))
+        random_tokens = torch.randint(low = vocab[0], high = vocab[-1]+1, size = (batch_size,seq_length), device=device)
         masked_tokens[random_replace_mask] = random_tokens[random_replace_mask]
         masked_tokens[unchanged_mask] = tokens[unchanged_mask]
 
