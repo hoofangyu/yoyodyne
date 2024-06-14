@@ -5,3 +5,4 @@ build/
 dist/
 models/
 dummy.ipynb
+lstm/

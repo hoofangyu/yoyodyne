@@ -164,9 +164,8 @@ class BaseEncoderDecoder(pl.LightningModule):
         self.decoder = self.get_decoder()
 
         # Decoder for unsupervised task
-        hidden = self.hidden_size*(self.source_encoder.num_directions) # Change Input Size depending on whether architecture is bidirectional or not
         self.unsupervised_decoder = nn.Sequential(
-            nn.Linear(hidden, self.source_vocab_size),
+            nn.Linear(self.source_encoder.output_size, self.source_vocab_size),
             nn.Softmax()
         )
 
