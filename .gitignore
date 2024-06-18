@@ -5,4 +5,5 @@ build/
 dist/
 models/
 dummy.ipynb
-lstm/
+lightning_logs/
+predictions/
