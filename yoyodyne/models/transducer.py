@@ -76,7 +76,7 @@ class TransducerEncoderDecoder(lstm.LSTMEncoderDecoder):
             batch (data.PaddedBatch).
 
         Returns:
-            Tuple[List[List[int]], torch.Tensor] of encoded prediction values
+            Tuple[List[List[int]], torch.Tensor]: encoded prediction values
                 and loss tensor; due to transducer setup, prediction is
                 performed during training, so these are returned.
         """
@@ -144,8 +144,8 @@ class TransducerEncoderDecoder(lstm.LSTMEncoderDecoder):
                 B x seq_len x emb_size.
             source (torch.Tensor): encoded source input.
             source_mask (torch.Tensor): mask for source input.
-            teacher_forcing (bool): Whether or not to decode
-                with teacher forcing. Determines whether or not to rollout
+            teacher_forcing (bool): whether or not to decode
+                with teacher forcing; determines whether or not to rollout
                 optimal actions.
             target (torch.Tensor, optional): encoded target input.
             target_mask (torch.Tensor, optional): mask for target input.
@@ -530,18 +530,17 @@ class TransducerEncoderDecoder(lstm.LSTMEncoderDecoder):
         predictions, loss = self(batch)
         # Evaluation requires prediction as a tensor.
         predictions = self.convert_prediction(predictions)
-        # Processes for accuracy calculation.
-        val_eval_items_dict = {}
-        for evaluator in self.evaluators:
-            predictions = evaluator.finalize_predictions(
-                predictions, self.end_idx, self.pad_idx
+        # Gets a dict of all eval metrics for this batch.
+        val_eval_items_dict = {
+            evaluator.name: evaluator.evaluate(
+                predictions,
+                batch.target.padded,
+                self.end_idx,
+                self.pad_idx,
+                predictions_finalized=True,
             )
-            golds = evaluator.finalize_golds(
-                batch.target.padded, self.end_idx, self.pad_idx
-            )
-            val_eval_items_dict[evaluator.name] = evaluator.get_eval_item(
-                predictions, golds, self.pad_idx
-            )
+            for evaluator in self.evaluators
+        }
         val_eval_items_dict.update({"val_loss": loss})
         return val_eval_items_dict
 
