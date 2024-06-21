@@ -1,0 +1,1000 @@
+acı	N;ABL(PL;PSS-1;PSS-PL	acılarımızdan
+acı	N;ABL(PL;PSS-3;PSS-SG	acılarından
+acı	N;ABL-SG	acıdan
+acı	N;ABL(SG;PSS-2;PSS-PL	acınızdan
+acı	N;ABL(SG;PSS-3;PSS-SG	acısından
+acı	N;ACC(SG;PSS-2;PSS-SG	acını
+acı	N;DAT(SG;PSS-1;PSS-PL	acımıza
+acı	N;DAT(SG;PSS-2;PSS-SG	acına
+acı	N;GEN-PL	acıların
+acı	N;GEN(PL;PSS-2;PSS-PL	acılarınızın
+acı	N;GEN(PL;PSS-3;PSS-SG	acılarının
+acı	N;GEN-SG	acının
+acı	N;LOC(PL;PSS-2;PSS-PL	acılarınızda
+acı	N;LOC-SG	acıda
+acı	N;LOC(SG;PSS-1;PSS-PL	acımızda
+acı	N;LOC(SG;PSS-2;PSS-SG	acında
+acı	N;NOM(SG;PSS-2;PSS-PL	acınız
+acı	N;NOM(SG;PSS-2;PSS-SG	acın
+acı	N;PL;INFR;PST;NOM-2;NOM-PL	acılarmışsınız
+acı	N;PL;PRS;NOM-1;NOM-SG	acılarım
+acı	N;SG;PRS;NOM-1;NOM-PL	acıyız
+acı	N;SG;PRS;NOM-1;NOM-SG	acıyım
+acıktırtmak	V;IMP;LGSPEC2;NEG;DECL;NOM-2;NOM-PL	acıktırtmayınız
+acıktırtmak	V;IND;FUT;PROG;POS;DECL;NOM-3;NOM-PL	acıktırtıyor olacaklar
+acıktırtmak	V;IND;FUT;PRSP;INTR;POS;NOM-1;NOM-PL	acıktırtacak olacak mıyız
+acıktırtmak	V;IND;FUT;PRSP;INTR;POS;NOM-2;NOM-PL	acıktırtacak olacak mısınız
+acıktırtmak	V;IND;FUT;PRSP;NEG;DECL;NOM-2;NOM-PL	acıktırtacak olmayacaksınız
+acıktırtmak	V;IND;PRS;PROG;INTR;POS;NOM-3;NOM-SG	acıktırtıyor mu
+acıktırtmak	V;IND;PST;HAB;PROG;INTR;POS;NOM-3;NOM-SG	acıktırtıyor olur muydu
+acıktırtmak	V;IND;PST;HAB;PROG;NEG;INTR;NOM-2;NOM-SG	acıktırtıyor olmaz mıydın
+acıktırtmak	V;IND;PST;PERF;INTR;POS;NOM-2;NOM-SG	acıktırttı mıydın
+acıktırtmak	V;IND;PST;PERF;NEG;INTR;NOM-1;NOM-PL	acıktırtmadı mıydık
+acıktırtmak	V;IND;PST;POS;DECL;NOM-3;NOM-PL	acıktırttılar
+acıktırtmak	V;IND;PST;PROG;NEG;DECL;NOM-3;NOM-SG	acıktırtmıyordu
+acıktırtmak	V;INFR;FUT;NEG;INTR;NOM-3;NOM-PL	acıktırtmayacaklar mıymış
+acıktırtmak	V;INFR;FUT;PERF;POS;DECL;NOM-2;NOM-PL	acıktırtmış olacaksınız
+acıktırtmak	V;INFR;FUT;POS;DECL;NOM-2;NOM-PL	acıktırtacakmışsınız
+acıktırtmak	V;INFR;FUT;PRSP;NEG;INTR;NOM-2;NOM-SG	acıktırtacak olmayacak mıymışsın
+acıktırtmak	V;INFR;PST;PERF;NEG;DECL;NOM-3;NOM-PL	acıktırtmamışlardı
+acıktırtmak	V;INFR;PST;PRSP;POS;DECL;NOM-2;NOM-SG	acıktırtmış olacaktın
+acıktırtmak	V;NEC;PRS;POS;DECL;NOM-1;NOM-SG	acıktırtmeliyim
+acıktırtmak	V;NEC;PRS;PROG;NEG;DECL;NOM-2;NOM-SG	acıktırtıyor olmamalısın
+acıktırtmak	V;NEC;PST;NEG;INTR;NOM-1;NOM-SG	acıktırtmamalı mıydım
+acıktırtmak	V;NEC;PST;PROG;INTR;POS;NOM-1;NOM-SG	acıktırtıyor olmalı mıydım
+akciğer anjiyografisi	N;ABL-PL	akciğer anjiyografilerinden
+akciğer anjiyografisi	N;ABL-SG	akciğer anjiyografisinden
+akciğer anjiyografisi	N;ACC-PL	akciğer anjiyografilerini
+akciğer anjiyografisi	N;ACC-SG	akciğer anjiyografisini
+akciğer anjiyografisi	N;DAT-PL	akciğer anjiyografilerine
+akciğer anjiyografisi	N;DAT-SG	akciğer anjiyografisine
+akciğer anjiyografisi	N;GEN-PL	akciğer anjiyografilerinin
+akciğer anjiyografisi	N;GEN-SG	akciğer anjiyografisinin
+akciğer anjiyografisi	N;LOC-PL	akciğer anjiyografilerinde
+akciğer anjiyografisi	N;LOC-SG	akciğer anjiyografisinde
+akciğer anjiyografisi	N;NOM-PL	akciğer anjiyografileri
+akciğer anjiyografisi	N;NOM-SG	akciğer anjiyografisi
+aldırtmak	V;IND;FUT;POS;DECL;NOM-3;NOM-SG	aldırtacak
+aldırtmak	V;IND;FUT;PROG;NEG;DECL;NOM-1;NOM-SG	aldırtıyor olmayacağım
+aldırtmak	V;IND;FUT;PRSP;NEG;INTR;NOM-2;NOM-SG	aldırtacak olmayacak mısın
+aldırtmak	V;IND;PST;HAB;INTR;POS;NOM-2;NOM-PL	aldırtır mıydınız
+aldırtmak	V;IND;PST;HAB;NEG;DECL;NOM-1;NOM-SG	aldırtmazdım
+aldırtmak	V;IND;PST;HAB;NEG;INTR;NOM-3;NOM-SG	aldırtmaz mıydı
+aldırtmak	V;IND;PST;NEG;DECL;NOM-3;NOM-SG	aldırtmadı
+aldırtmak	V;IND;PST;PRSP;PROG;NEG;INTR;NOM-1;NOM-PL	aldırtıyor olmayacak mıydık
+aldırtmak	V;INFR;FUT;HAB;NEG;DECL;NOM-3;NOM-SG	aldırtır olmayacakmış
+aldırtmak	V;INFR;FUT;NEG;DECL;NOM-3;NOM-PL	aldırtmayacaklarmış
+aldırtmak	V;INFR;FUT;PERF;NEG;DECL;NOM-3;NOM-PL	aldırtmış olmayacaklar
+aldırtmak	V;INFR;FUT;PROG;POS;DECL;NOM-1;NOM-PL	aldırtıyor olacakmışız
+aldırtmak	V;INFR;FUT;PRSP;POS;DECL;NOM-3;NOM-PL	aldırtacak olacaklarmış
+aldırtmak	V;NEC;INFR;PRS;PROG;NEG;INTR;NOM-1;NOM-SG	aldırtıyor olmamalı mıymışım
+aldırtmak	V;NEC;INFR;PST;POS;DECL;NOM-3;NOM-PL	aldırtmalılarmış
+aldırtmak	V;NEC;PRS;NEG;DECL;NOM-3;NOM-PL	aldırtmameliler
+aldırtmak	V;NEC;PRS;POS;DECL;NOM-1;NOM-SG	aldırtmeliyim
+aldırtmak	V;NEC;PRS;POS;DECL;NOM-2;NOM-SG	aldırtmelisin
+aldırtmak	V;NEC;PST;NEG;DECL;NOM-3;NOM-SG	aldırtmamalıydı
+aldırtmak	V;NEC;PST;NEG;INTR;NOM-3;NOM-SG	aldırtmamalı mıydı
+aldırtmak	V;NEC;PST;POS;DECL;NOM-1;NOM-PL	aldırtmalıydık
+aygır	N;ABL(PL;PSS-2;PSS-PL	aygırlarınızdan
+aygır	N;ABL(SG;PSS-1;PSS-PL	aygırımızdan
+aygır	N;ACC(SG;PSS-3;PSS-SG	aygırını
+aygır	N;DAT-PL	aygırlara
+aygır	N;DAT(PL;PSS-2;PSS-SG	aygırlarına
+aygır	N;GEN(PL;PSS-3;PSS-SG	aygırlarının
+aygır	N;LOC-SG	aygırda
+aygır	N;LOC(SG;PSS-3;PSS-SG	aygırında
+aygır	N;NOM-PL	aygırlar
+aygır	N;PL;IND;PST;NOM-1;NOM-PL	aygırlardık
+aygır	N;PL;IND;PST;NOM-2;NOM-SG	aygırlardın
+aygır	N;PL;IND;PST;NOM-3;NOM-SG	aygırlardı
+aygır	N;PL;INFR;PST;NOM-2;NOM-SG	aygırlarmışsın
+aygır	N;PL;PRS;NOM-1;NOM-SG	aygırlarım
+aygır	N;SG;IND;PST;NOM-3;NOM-PL	aygırdılar
+aygır	N;SG;INFR;PST;NOM-2;NOM-PL	aygırmışsınız
+aygır	N;SG;INFR;PST;NOM-2;NOM-SG	aygırmışsın
+aygır	N;SG;INFR;PST;NOM-3;NOM-PL	aygırmışlar
+aygır	N;SG;PRS;NOM-1;NOM-SG	aygırım
+aygır	N;SG;PRS;NOM-3;NOM-PL	aygırlar
+aygır	N;SG;PRS;NOM-3;NOM-SG	aygır
+birleşik kelime	N;ABL-PL	birleşik kelimelerden
+birleşik kelime	N;ABL-SG	birleşik kelimeden
+birleşik kelime	N;ACC-PL	birleşik kelimeleri
+birleşik kelime	N;ACC-SG	birleşik kelimeyi
+birleşik kelime	N;DAT-PL	birleşik kelimelere
+birleşik kelime	N;DAT-SG	birleşik kelimeye
+birleşik kelime	N;GEN-PL	birleşik kelimelerin
+birleşik kelime	N;GEN-SG	birleşik kelimenin
+birleşik kelime	N;LOC-PL	birleşik kelimelerde
+birleşik kelime	N;LOC-SG	birleşik kelimede
+birleşik kelime	N;NOM-PL	birleşik kelimeler
+birleşik kelime	N;NOM-SG	birleşik kelime
+büyümek	V;IND;FUT;PROG;NEG;INTR;NOM-1;NOM-PL	büyüyor olmayacak mıyız
+büyümek	V;IND;FUT;PRSP;INTR;POS;NOM-3;NOM-PL	büyüyecek olacaklar mı
+büyümek	V;IND;FUT;PRSP;NEG;INTR;NOM-2;NOM-PL	büyüyecek olmayacak mısınız
+büyümek	V;IND;PRS;PROG;INTR;POS;NOM-1;NOM-PL	büyüyor muyuz
+büyümek	V;IND;PRS;PROG;INTR;POS;NOM-1;NOM-SG	büyüyor muyum
+büyümek	V;IND;PRS;PROG;INTR;POS;NOM-2;NOM-SG	büyüyor musun
+büyümek	V;IND;PST;PERF;NEG;DECL;NOM-1;NOM-PL	büyümediydik
+büyümek	V;IND;PST;PERF;NEG;INTR;NOM-1;NOM-PL	büyümedi miydik
+büyümek	V;IND;PST;POS;DECL;NOM-1;NOM-SG	büyüdüm
+büyümek	V;IND;PST;PROG;NEG;DECL;NOM-2;NOM-PL	büyümüyordunuz
+büyümek	V;INFR;FUT;PERF;POS;DECL;NOM-1;NOM-SG	büyümüş olacağım
+büyümek	V;INFR;FUT;PROG;NEG;DECL;NOM-3;NOM-PL	büyüyor olmayacaklarmış
+büyümek	V;INFR;PRS;HAB;POS;DECL;NOM-3;NOM-PL	büyürlermiş
+büyümek	V;INFR;PST;PERF;NEG;INTR;NOM-2;NOM-SG	büyümemiş miydin
+büyümek	V;NEC;INFR;PRS;PROG;NEG;INTR;NOM-1;NOM-PL	büyüyor olmamalı mıymışız
+büyümek	V;NEC;INFR;PST;NEG;INTR;NOM-3;NOM-PL	büyümemeliler miymiş
+büyümek	V;NEC;PRS;POS;DECL;NOM-3;NOM-SG	büyümeli
+büyümek	V;NEC;PRS;PROG;INTR;POS;NOM-2;NOM-SG	büyüyor olmalı mısın
+büyümek	V;NEC;PST;INTR;POS;NOM-2;NOM-PL	büyümeli miydiniz
+büyümek	V;NEC;PST;POS;DECL;NOM-1;NOM-PL	büyümeliydik
+büyümek	V;NEC;PST;PROG;NEG;DECL;NOM-1;NOM-PL	büyüyor olmamalıydık
+dağlı	N;ABL-PL	dağlılardan
+dağlı	N;ABL-SG	dağlıdan
+dağlı	N;ACC-PL	dağlıları
+dağlı	N;ACC-SG	dağlıyı
+dağlı	N;DAT-PL	dağlılara
+dağlı	N;DAT-SG	dağlıya
+dağlı	N;GEN-PL	dağlıların
+dağlı	N;GEN-SG	dağlının
+dağlı	N;LOC-PL	dağlılarda
+dağlı	N;LOC-SG	dağlıda
+dağlı	N;NOM-PL	dağlılar
+dağlı	N;NOM-SG	dağlı
+dermek	V;IND;FUT;PROG;POS;DECL;NOM-1;NOM-SG	deriyor olacağım
+dermek	V;IND;PRS;HAB;POS;DECL;NOM-1;NOM-SG	dererim
+dermek	V;IND;PRS;HAB;POS;DECL;NOM-2;NOM-SG	derersin
+dermek	V;IND;PST;HAB;PROG;POS;DECL;NOM-1;NOM-SG	deriyor olurdum
+dermek	V;IND;PST;PERF;INTR;POS;NOM-2;NOM-SG	derdi miydin
+dermek	V;IND;PST;PROG;NEG;DECL;NOM-3;NOM-SG	dermiyordu
+dermek	V;IND;PST;PRSP;NEG;DECL;NOM-1;NOM-SG	dermeyecektim
+dermek	V;IND;PST;PRSP;PROG;INTR;POS;NOM-3;NOM-SG	deriyor olacak mıydı
+dermek	V;IND;PST;PRSP;PROG;POS;DECL;NOM-1;NOM-PL	deriyor olacaktık
+dermek	V;INFR;FUT;PERF;POS;DECL;NOM-2;NOM-PL	dermiş olacaksınız
+dermek	V;INFR;FUT;POS;DECL;NOM-1;NOM-SG	derecekmişim
+dermek	V;INFR;PRS;PROG;NEG;DECL;NOM-1;NOM-SG	dermiyormuşum
+dermek	V;INFR;PST;NEG;INTR;NOM-1;NOM-PL	dermemiş miyiz
+dermek	V;INFR;PST;SG;POS;DECL;NOM-3	dermişmiş
+dermek	V;NEC;INFR;PRS;PROG;NEG;DECL;NOM-2;NOM-PL	deriyor olmamalıymışsınız
+dermek	V;NEC;INFR;PST;INTR;POS;NOM-3;NOM-PL	dermeliler miymiş
+dermek	V;NEC;INFR;PST;NEG;DECL;NOM-3;NOM-SG	dermemeliymiş
+dermek	V;NEC;PRS;POS;DECL;NOM-2;NOM-PL	dermelisiniz
+dermek	V;NEC;PRS;PROG;POS;DECL;NOM-3;NOM-PL	deriyor olmalılar
+dermek	V;NEC;PST;POS;DECL;NOM-1;NOM-PL	dermeliydik
+dindarlık	N;ABL(PL;PSS-3;PSS-SG	dindarlıklarından
+dindarlık	N;ABL(SG;PSS-2;PSS-PL	dindarlığınızdan
+dindarlık	N;ACC(PL;PSS-2;PSS-PL	dindarlıklarınızı
+dindarlık	N;DAT-PL	dindarlıklara
+dindarlık	N;DAT(PL;PSS-2;PSS-PL	dindarlıklarınıza
+dindarlık	N;DAT(PL;PSS-2;PSS-SG	dindarlıklarına
+dindarlık	N;DAT(SG;PSS-2;PSS-SG	dindarlığına
+dindarlık	N;GEN-PL	dindarlıkların
+dindarlık	N;GEN(PL;PSS-3;PSS-SG	dindarlıklarının
+dindarlık	N;GEN(SG;PSS-1;PSS-PL	dindarlığımızın
+dindarlık	N;GEN(SG;PSS-2;PSS-PL	dindarlığınızın
+dindarlık	N;GEN(SG;PSS-2;PSS-SG	dindarlığının
+dindarlık	N;LOC(PL;PSS-1;PSS-PL	dindarlıklarımızda
+dindarlık	N;LOC(PL;PSS-3;PSS-SG	dindarlıklarında
+dindarlık	N;LOC(SG;PSS-1;PSS-PL	dindarlığımızda
+dindarlık	N;LOC(SG;PSS-2;PSS-PL	dindarlığınızda
+dindarlık	N;LOC(SG;PSS-3;PSS-SG	dindarlığında
+dindarlık	N;NOM(PL;PSS-2;PSS-SG	dindarlıkların
+dindarlık	N;NOM(PL;PSS-3;PSS-SG	dindarlıkları
+dindarlık	N;NOM(SG;PSS-1;PSS-PL	dindarlığımız
+dindarlık	N;NOM(SG;PSS-3;PSS-SG	dindarlığı
+doğramak	V;IND;FUT;PROG;NEG;DECL;NOM-1;NOM-SG	doğruyor olmayacağım
+doğramak	V;IND;PRS;HAB;POS;DECL;NOM-3;NOM-SG	doğrar
+doğramak	V;IND;PST;HAB;INTR;POS;NOM-1;NOM-PL	doğrar mıydık
+doğramak	V;IND;PST;HAB;PROG;INTR;POS;NOM-3;NOM-PL	doğruyor olurlar mıydı
+doğramak	V;IND;PST;PROG;INTR;POS;NOM-1;NOM-SG	doğruyor muydum
+doğramak	V;IND;PST;PROG;NEG;INTR;NOM-3;NOM-PL	doğramıyorlar mıydı
+doğramak	V;IND;PST;PRSP;INTR;POS;NOM-3;NOM-PL	doğrayacaklar mıydı
+doğramak	V;INFR;FUT;NEG;DECL;NOM-2;NOM-SG	doğramayacakmışsın
+doğramak	V;INFR;FUT;PERF;NEG;INTR;NOM-2;NOM-PL	doğramış olmayacak mısınız
+doğramak	V;INFR;FUT;PERF;POS;DECL;NOM-3;NOM-PL	doğramış olacaklar
+doğramak	V;INFR;FUT;PROG;INTR;POS;NOM-3;NOM-PL	doğruyor olacaklar mıymış
+doğramak	V;INFR;FUT;PRSP;INTR;POS;NOM-3;NOM-PL	doğraacak olacaklar mıymış
+doğramak	V;INFR;PST;NEG;INTR;NOM-3;NOM-PL	doğramamışlar mı
+doğramak	V;INFR;PST;PERF;INTR;POS;NOM-1;NOM-SG	doğramış mıydım
+doğramak	V;INFR;PST;PRSP;INTR;POS;NOM-2;NOM-SG	doğramış olacak mıydın
+doğramak	V;INFR;PST;PRSP;NEG;DECL;NOM-2;NOM-SG	doğramış olmayacaktın
+doğramak	V;NEC;INFR;PRS;PROG;NEG;INTR;NOM-3;NOM-PL	doğruyor olmamalılar mıymış
+doğramak	V;NEC;INFR;PST;INTR;POS;NOM-3;NOM-PL	doğramalılar mıymış
+doğramak	V;NEC;INFR;PST;NEG;DECL;NOM-3;NOM-SG	doğramamalıymış
+doğramak	V;NEC;INFR;PST;POS;DECL;NOM-3;NOM-PL	doğramalılarmış
+doğramak	V;NEC;PRS;PROG;NEG;DECL;NOM-2;NOM-SG	doğruyor olmamalısın
+doğramak	V;NEC;PST;INTR;POS;NOM-1;NOM-PL	doğramalı mıydık
+el sıkışmak	V;IND;FUT;NEG;DECL;NOM-3;NOM-SG	el sıkışmayacak
+el sıkışmak	V;IND;FUT;PRSP;NEG;DECL;NOM-1;NOM-SG	el sıkışacak olmayacağım
+el sıkışmak	V;IND;PRS;PROG;INTR;POS;NOM-2;NOM-PL	el sıkışıyor musunuz
+el sıkışmak	V;IND;PRS;PROG;POS;DECL;NOM-3;NOM-PL	el sıkışıyorlar
+el sıkışmak	V;IND;PST;HAB;PROG;POS;DECL;NOM-2;NOM-SG	el sıkışıyor olurdun
+el sıkışmak	V;IND;PST;PERF;POS;DECL;NOM-3;NOM-PL	el sıkıştılardı
+el sıkışmak	V;IND;PST;PRSP;INTR;POS;NOM-2;NOM-SG	el sıkışacak mıydın
+el sıkışmak	V;IND;PST;PRSP;PROG;INTR;POS;NOM-1;NOM-SG	el sıkışıyor olacak mıydım
+el sıkışmak	V;IND;PST;PRSP;PROG;NEG;DECL;NOM-2;NOM-PL	el sıkışıyor olmayacaktınız
+el sıkışmak	V;IND;PST;PRSP;PROG;POS;DECL;NOM-1;NOM-SG	el sıkışıyor olacaktım
+el sıkışmak	V;INFR;FUT;HAB;POS;DECL;NOM-3;NOM-PL	el sıkışır olacaklarmış
+el sıkışmak	V;INFR;PST;NEG;DECL;NOM-1;NOM-SG	el sıkışmamışım
+el sıkışmak	V;INFR;PST;PERF;INTR;POS;NOM-1;NOM-PL	el sıkışmış mıydık
+el sıkışmak	V;INFR;PST;PERF;NEG;DECL;NOM-3;NOM-PL	el sıkışmamışlardı
+el sıkışmak	V;INFR;PST;PL;INTR;POS;NOM-1	el sıkışmış mıymışız
+el sıkışmak	V;INFR;PST;SG;NEG;DECL;NOM-1	el sıkışmamışmışım
+el sıkışmak	V;NEC;INFR;PRS;PROG;NEG;INTR;NOM-1;NOM-PL	el sıkışıyor olmamalı mıymışız
+el sıkışmak	V;NEC;INFR;PST;NEG;DECL;NOM-2;NOM-PL	el sıkışmamalıymışsınız
+el sıkışmak	V;NEC;PRS;INTR;POS;NOM-3;NOM-PL	el sıkışmeliler mi
+el sıkışmak	V;NEC;PST;NEG;DECL;NOM-3;NOM-SG	el sıkışmamalıydı
+el sıkışmak	V;NEC;PST;PROG;NEG;DECL;NOM-2;NOM-PL	el sıkışıyor olmamalıydınız
+fotoğraf çekmek	V;IMP;LGSPEC2;NEG;DECL;NOM-2;NOM-PL	fotoğraf çekmeyiniz
+fotoğraf çekmek	V;IMP;POS;DECL;NOM-2;NOM-SG	fotoğraf çek
+fotoğraf çekmek	V;IND;PRS;PROG;NEG;INTR;NOM-1;NOM-PL	fotoğraf çekmiyor muyuz
+fotoğraf çekmek	V;IND;PST;HAB;NEG;DECL;NOM-3;NOM-PL	fotoğraf çekmezlerdi
+fotoğraf çekmek	V;IND;PST;HAB;PROG;NEG;DECL;NOM-2;NOM-PL	fotoğraf çekiyor olmazdınız
+fotoğraf çekmek	V;IND;PST;PERF;NEG;INTR;NOM-3;NOM-PL	fotoğraf çekmediler miydi
+fotoğraf çekmek	V;IND;PST;PROG;NEG;DECL;NOM-1;NOM-PL	fotoğraf çekmiyorduk
+fotoğraf çekmek	V;IND;PST;PROG;NEG;DECL;NOM-2;NOM-PL	fotoğraf çekmiyordunuz
+fotoğraf çekmek	V;IND;PST;PROG;POS;DECL;NOM-3;NOM-PL	fotoğraf çekiyorlardı
+fotoğraf çekmek	V;IND;PST;PRSP;NEG;DECL;NOM-3;NOM-SG	fotoğraf çekmeyecekti
+fotoğraf çekmek	V;IND;PST;PRSP;NEG;INTR;NOM-2;NOM-SG	fotoğraf çekmeyecek miydin
+fotoğraf çekmek	V;IND;PST;PRSP;POS;DECL;NOM-3;NOM-PL	fotoğraf çekeceklerdi
+fotoğraf çekmek	V;IND;PST;PRSP;PROG;POS;DECL;NOM-1;NOM-SG	fotoğraf çekiyor olacaktım
+fotoğraf çekmek	V;INFR;FUT;PROG;NEG;DECL;NOM-2;NOM-SG	fotoğraf çekiyor olmayacakmışsın
+fotoğraf çekmek	V;INFR;FUT;PRSP;NEG;INTR;NOM-3;NOM-SG	fotoğraf çekecek olmayacak mıymış
+fotoğraf çekmek	V;INFR;PST;NEG;DECL;NOM-1;NOM-SG	fotoğraf çekmemişim
+fotoğraf çekmek	V;INFR;PST;PERF;POS;DECL;NOM-1;NOM-PL	fotoğraf çekmiştik
+fotoğraf çekmek	V;INFR;PST;PRSP;NEG;DECL;NOM-3;NOM-PL	fotoğraf çekmiş olmayacaklardı
+fotoğraf çekmek	V;NEC;INFR;PST;POS;DECL;NOM-3;NOM-SG	fotoğraf çekmeliymiş
+fotoğraf çekmek	V;NEC;PRS;PROG;NEG;DECL;NOM-3;NOM-PL	fotoğraf çekiyor olmamalılar
+fotoğraf çekmek	V;NEC;PST;INTR;POS;NOM-2;NOM-SG	fotoğraf çekmeli miydin
+fotoğraf çekmek	V;NEC;PST;PROG;POS;DECL;NOM-2;NOM-PL	fotoğraf çekiyor olmalıydınız
+gizlenmek	V;IND;FUT;POS;DECL;NOM-3;NOM-SG	gizlenecek
+gizlenmek	V;IND;FUT;PRSP;POS;DECL;NOM-3;NOM-PL	gizlenecek olacaklar
+gizlenmek	V;IND;PRS;HAB;INTR;POS;NOM-1;NOM-SG	gizlenir miyim
+gizlenmek	V;IND;PRS;HAB;INTR;POS;NOM-3;NOM-SG	gizlenir mi
+gizlenmek	V;IND;PRS;HAB;POS;DECL;NOM-2;NOM-SG	gizlenirsin
+gizlenmek	V;IND;PST;HAB;INTR;POS;NOM-3;NOM-PL	gizlenirler miydi
+gizlenmek	V;IND;PST;PROG;POS;DECL;NOM-1;NOM-SG	gizleniyordum
+gizlenmek	V;INFR;FUT;NEG;DECL;NOM-2;NOM-SG	gizlenmeyecekmişsin
+gizlenmek	V;INFR;FUT;PROG;NEG;INTR;NOM-1;NOM-SG	gizleniyor olmayacak mıymışım
+gizlenmek	V;INFR;PRS;HAB;INTR;POS;NOM-3;NOM-PL	gizlenirler miymiş
+gizlenmek	V;INFR;PRS;HAB;NEG;DECL;NOM-2;NOM-SG	gizlenmezmişsin
+gizlenmek	V;INFR;PRS;PROG;POS;DECL;NOM-2;NOM-PL	gizleniyormuşsunuz
+gizlenmek	V;INFR;PST;PERF;NEG;DECL;NOM-3;NOM-PL	gizlenmemişlerdi
+gizlenmek	V;INFR;PST;PRSP;NEG;INTR;NOM-3;NOM-PL	gizlenmiş olmayacaklar mıydı
+gizlenmek	V;NEC;INFR;PRS;PROG;NEG;INTR;NOM-3;NOM-SG	gizleniyor olmamalı mıymış
+gizlenmek	V;NEC;INFR;PST;NEG;INTR;NOM-2;NOM-PL	gizlenmemeli miymişsiniz
+gizlenmek	V;NEC;PRS;NEG;DECL;NOM-3;NOM-PL	gizlenmemeliler
+gizlenmek	V;NEC;PRS;PROG;NEG;INTR;NOM-2;NOM-SG	gizleniyor olmamalı mısın
+gizlenmek	V;NEC;PST;INTR;POS;NOM-1;NOM-SG	gizlenmeli miydim
+gizlenmek	V;NEC;PST;PROG;NEG;DECL;NOM-3;NOM-SG	gizleniyor olmamalıydı
+gizlenmek	V;NEC;PST;PROG;NEG;INTR;NOM-1;NOM-PL	gizleniyor olmamalı mıydık
+gizlenmek	V;NEC;PST;PROG;NEG;INTR;NOM-1;NOM-SG	gizleniyor olmamalı mıydım
+göndermek	V;IND;FUT;PRSP;NEG;INTR;NOM-3;NOM-SG	gönderecek olmayacak mı
+göndermek	V;IND;PRS;HAB;NEG;INTR;NOM-3;NOM-SG	göndermez mi
+göndermek	V;IND;PRS;PROG;POS;DECL;NOM-2;NOM-PL	gönderiyorsunuz
+göndermek	V;IND;PST;PERF;INTR;POS;NOM-2;NOM-PL	gönderdi miydiniz
+göndermek	V;IND;PST;PERF;NEG;INTR;NOM-1;NOM-PL	göndermedi miydik
+göndermek	V;IND;PST;PERF;POS;DECL;NOM-1;NOM-SG	gönderdiydim
+göndermek	V;IND;PST;PERF;POS;DECL;NOM-2;NOM-PL	gönderdiydiniz
+göndermek	V;IND;PST;POS;DECL;NOM-1;NOM-PL	gönderdik
+göndermek	V;IND;PST;PROG;INTR;POS;NOM-2;NOM-SG	gönderiyor muydun
+göndermek	V;IND;PST;PROG;NEG;DECL;NOM-2;NOM-SG	göndermiyordun
+göndermek	V;IND;PST;PRSP;INTR;POS;NOM-3;NOM-SG	gönderecek miydi
+göndermek	V;INFR;FUT;HAB;POS;DECL;NOM-3;NOM-SG	gönderir olacakmış
+göndermek	V;INFR;FUT;NEG;DECL;NOM-1;NOM-PL	göndermeyecekmişiz
+göndermek	V;INFR;FUT;PROG;NEG;INTR;NOM-3;NOM-PL	gönderiyor olmayacaklar mıymış
+göndermek	V;INFR;PST;NEG;DECL;NOM-3;NOM-SG	göndermemiş
+göndermek	V;INFR;PST;PERF;INTR;POS;NOM-2;NOM-PL	göndermiş miydiniz
+göndermek	V;INFR;PST;PERF;POS;DECL;NOM-1;NOM-SG	göndermiştim
+göndermek	V;NEC;INFR;PRS;PROG;NEG;INTR;NOM-1;NOM-PL	gönderiyor olmamalı mıymışız
+göndermek	V;NEC;PRS;INTR;POS;NOM-1;NOM-PL	göndermeli miyiz
+göndermek	V;NEC;PST;POS;DECL;NOM-3;NOM-PL	göndermelilerdi
+göndermek	V;NEC;PST;PROG;NEG;INTR;NOM-2;NOM-SG	gönderiyor olmamalı mıydın
+gücenmek	V;IMP;NEG;DECL;NOM-2;NOM-PL	gücenmeyin
+gücenmek	V;IMP;NEG;DECL;NOM-2;NOM-SG	gücenme
+gücenmek	V;IND;FUT;INTR;POS;NOM-3;NOM-PL	gücenecekler mi
+gücenmek	V;IND;FUT;PROG;NEG;DECL;NOM-3;NOM-SG	güceniyor olmayacak
+gücenmek	V;IND;PST;HAB;NEG;DECL;NOM-2;NOM-PL	gücenmezdiniz
+gücenmek	V;IND;PST;NEG;INTR;NOM-1;NOM-PL	gücenmedik mi
+gücenmek	V;IND;PST;PROG;POS;DECL;NOM-2;NOM-SG	güceniyordun
+gücenmek	V;IND;PST;PRSP;INTR;POS;NOM-3;NOM-PL	gücenecekler miydi
+gücenmek	V;IND;PST;PRSP;NEG;INTR;NOM-3;NOM-PL	gücenmeyecekler miydi
+gücenmek	V;INFR;FUT;HAB;POS;DECL;NOM-3;NOM-PL	gücenir olacaklarmış
+gücenmek	V;INFR;FUT;PERF;NEG;INTR;NOM-2;NOM-PL	gücenmiş olmayacak mısınız
+gücenmek	V;INFR;PRS;HAB;INTR;POS;NOM-2;NOM-PL	gücenir miymişsiniz
+gücenmek	V;INFR;PRS;HAB;POS;DECL;NOM-3;NOM-SG	gücenirmiş
+gücenmek	V;INFR;PRS;PROG;INTR;POS;NOM-1;NOM-PL	güceniyor muymuşuz
+gücenmek	V;INFR;PRS;PROG;INTR;POS;NOM-3;NOM-PL	güceniyorlar mıymış
+gücenmek	V;INFR;PST;NEG;DECL;NOM-3;NOM-PL	gücenmemişler
+gücenmek	V;INFR;PST;POS;DECL;NOM-1;NOM-PL	gücenmişiz
+gücenmek	V;INFR;PST;POS;DECL;NOM-2;NOM-SG	gücenmişsin
+gücenmek	V;NEC;INFR;PRS;PROG;NEG;INTR;NOM-3;NOM-PL	güceniyor olmamalılar mıymış
+gücenmek	V;NEC;PRS;PROG;NEG;INTR;NOM-3;NOM-SG	güceniyor olmamalı mı
+gücenmek	V;NEC;PST;PROG;INTR;POS;NOM-3;NOM-SG	güceniyor olmalı mıydı
+hız	N;ABL(PL;PSS-3;PSS-SG	hızlarından
+hız	N;ABL(SG;PSS-1;PSS-PL	hızımızdan
+hız	N;ACC(PL;PSS-1;PSS-PL	hızlarımızı
+hız	N;ACC(PL;PSS-2;PSS-PL	hızlarınızı
+hız	N;ACC(PL;PSS-2;PSS-SG	hızlarını
+hız	N;ACC-SG	hızı
+hız	N;ACC(SG;PSS-2;PSS-PL	hızınızı
+hız	N;ACC(SG;PSS-2;PSS-SG	hızını
+hız	N;DAT-PL	hızlara
+hız	N;DAT(SG;PSS-2;PSS-PL	hızınıza
+hız	N;DAT(SG;PSS-2;PSS-SG	hızına
+hız	N;DAT(SG;PSS-3;PSS-SG	hızına
+hız	N;GEN-PL	hızların
+hız	N;GEN(PL;PSS-2;PSS-PL	hızlarınızın
+hız	N;GEN(PL;PSS-3;PSS-SG	hızlarının
+hız	N;GEN(SG;PSS-1;PSS-PL	hızımızın
+hız	N;GEN(SG;PSS-2;PSS-PL	hızınızın
+hız	N;GEN(SG;PSS-2;PSS-SG	hızının
+hız	N;GEN(SG;PSS-3;PSS-SG	hızının
+hız	N;NOM(SG;PSS-1;PSS-PL	hızımız
+hız	N;NOM(SG;PSS-2;PSS-PL	hızınız
+iftitah	N;ABL-SG	iftitahtan
+iftitah	N;ABL(SG;PSS-2;PSS-PL	iftitahınızdan
+iftitah	N;ABL(SG;PSS-3;PSS-SG	iftitahından
+iftitah	N;ACC(PL;PSS-1;PSS-PL	iftitahlarımızı
+iftitah	N;ACC(PL;PSS-3;PSS-SG	iftitahlarını
+iftitah	N;ACC(SG;PSS-2;PSS-SG	iftitahını
+iftitah	N;ACC(SG;PSS-3;PSS-SG	iftitahını
+iftitah	N;DAT(PL;PSS-3;PSS-SG	iftitahlarına
+iftitah	N;DAT(SG;PSS-1;PSS-PL	iftitahımıza
+iftitah	N;DAT(SG;PSS-2;PSS-SG	iftitahına
+iftitah	N;GEN(PL;PSS-1;PSS-PL	iftitahlarımızın
+iftitah	N;GEN(PL;PSS-3;PSS-SG	iftitahlarının
+iftitah	N;GEN-SG	iftitahın
+iftitah	N;GEN(SG;PSS-2;PSS-SG	iftitahının
+iftitah	N;LOC(PL;PSS-2;PSS-PL	iftitahlarınızda
+iftitah	N;LOC(PL;PSS-2;PSS-SG	iftitahlarında
+iftitah	N;LOC(SG;PSS-2;PSS-PL	iftitahınızda
+iftitah	N;NOM(PL;PSS-1;PSS-PL	iftitahlarımız
+iftitah	N;NOM(PL;PSS-2;PSS-PL	iftitahlarınız
+iftitah	N;NOM(PL;PSS-3;PSS-SG	iftitahları
+iftitah	N;NOM(SG;PSS-1;PSS-PL	iftitahımız
+iftitah	N;NOM(SG;PSS-2;PSS-SG	iftitahın
+karşılık	N;ABL(PL;PSS-2;PSS-PL	karşılıklarınızdan
+karşılık	N;ABL(PL;PSS-3;PSS-SG	karşılıklarından
+karşılık	N;ABL(SG;PSS-3;PSS-SG	karşılığından
+karşılık	N;ACC-PL	karşılıkları
+karşılık	N;ACC(PL;PSS-1;PSS-PL	karşılıklarımızı
+karşılık	N;ACC-SG	karşılığı
+karşılık	N;ACC(SG;PSS-1;PSS-PL	karşılığımızı
+karşılık	N;ACC(SG;PSS-2;PSS-SG	karşılığını
+karşılık	N;ACC(SG;PSS-3;PSS-SG	karşılığını
+karşılık	N;DAT-PL	karşılıklara
+karşılık	N;DAT(PL;PSS-1;PSS-PL	karşılıklarımıza
+karşılık	N;DAT(PL;PSS-3;PSS-SG	karşılıklarına
+karşılık	N;GEN-PL	karşılıkların
+karşılık	N;GEN(PL;PSS-2;PSS-PL	karşılıklarınızın
+karşılık	N;GEN(SG;PSS-2;PSS-PL	karşılığınızın
+karşılık	N;LOC(PL;PSS-1;PSS-PL	karşılıklarımızda
+karşılık	N;LOC(SG;PSS-1;PSS-PL	karşılığımızda
+karşılık	N;LOC(SG;PSS-3;PSS-SG	karşılığında
+karşılık	N;NOM(SG;PSS-2;PSS-PL	karşılığınız
+karşılık	N;NOM(SG;PSS-2;PSS-SG	karşılığın
+kipa	N;ABL-PL	kipalardan
+kipa	N;ABL-SG	kipadan
+kipa	N;ABL(SG;PSS-1;PSS-PL	kipamızdan
+kipa	N;ABL(SG;PSS-2;PSS-PL	kipanızdan
+kipa	N;ABL(SG;PSS-3;PSS-SG	kipasından
+kipa	N;ACC(PL;PSS-1;PSS-PL	kipalarımızı
+kipa	N;ACC(PL;PSS-3;PSS-SG	kipalarını
+kipa	N;ACC(SG;PSS-1;PSS-PL	kipamızı
+kipa	N;DAT(PL;PSS-2;PSS-SG	kipalarına
+kipa	N;DAT-SG	kipaya
+kipa	N;DAT(SG;PSS-2;PSS-PL	kipanıza
+kipa	N;GEN(PL;PSS-3;PSS-SG	kipalarının
+kipa	N;GEN-SG	kipanın
+kipa	N;GEN(SG;PSS-3;PSS-SG	kipasının
+kipa	N;LOC(SG;PSS-2;PSS-PL	kipanızda
+kipa	N;NOM-PL	kipalar
+kipa	N;NOM(PL;PSS-2;PSS-PL	kipalarınız
+kipa	N;NOM(PL;PSS-2;PSS-SG	kipaların
+kipa	N;NOM(SG;PSS-2;PSS-PL	kipanız
+kipa	N;NOM(SG;PSS-3;PSS-SG	kipası
+koca	N;ABL-PL	kocalardan
+koca	N;ABL(PL;PSS-1;PSS-PL	kocalarımızdan
+koca	N;ABL(PL;PSS-2;PSS-PL	kocalarınızdan
+koca	N;ABL-SG	kocadan
+koca	N;ACC(PL;PSS-1;PSS-PL	kocalarımızı
+koca	N;ACC(SG;PSS-1;PSS-PL	kocamızı
+koca	N;DAT(PL;PSS-2;PSS-SG	kocalarına
+koca	N;DAT-SG	kocaya
+koca	N;GEN(PL;PSS-2;PSS-PL	kocalarınızın
+koca	N;GEN(SG;PSS-2;PSS-PL	kocanızın
+koca	N;LOC(PL;PSS-1;PSS-PL	kocalarımızda
+koca	N;LOC(SG;PSS-2;PSS-PL	kocanızda
+koca	N;NOM(PL;PSS-1;PSS-PL	kocalarımız
+koca	N;NOM(SG;PSS-2;PSS-PL	kocanız
+koca	N;PL;IND;PST;NOM-2;NOM-PL	kocalardınız
+koca	N;PL;IND;PST;NOM-3;NOM-SG	kocalardı
+koca	N;PL;INFR;PST;NOM-1;NOM-PL	kocalarmışız
+koca	N;PL;INFR;PST;NOM-3;NOM-PL	kocalarmış
+koca	N;SG;INFR;PST;NOM-1;NOM-PL	kocaymışız
+koca	N;SG;INFR;PST;NOM-2;NOM-SG	kocaymışsın
+koca	N;SG;INFR;PST;NOM-3;NOM-PL	kocaymışlar
+koca	N;SG;PRS;NOM-2;NOM-SG	kocasın
+kontak lens	N;ABL-PL	kontak lenslerden
+kontak lens	N;ABL(PL;PSS-2;PSS-SG	kontak lenslerinden
+kontak lens	N;ABL(PL;PSS-3;PSS-SG	kontak lenslerinden
+kontak lens	N;ABL(SG;PSS-3;PSS-SG	kontak lensinden
+kontak lens	N;ACC(PL;PSS-2;PSS-PL	kontak lenslerinizi
+kontak lens	N;ACC-SG	kontak lensi
+kontak lens	N;ACC(SG;PSS-2;PSS-SG	kontak lensini
+kontak lens	N;DAT-SG	kontak lense
+kontak lens	N;DAT(SG;PSS-2;PSS-PL	kontak lensinize
+kontak lens	N;GEN-PL	kontak lenslerin
+kontak lens	N;GEN(PL;PSS-1;PSS-PL	kontak lenslerimizin
+kontak lens	N;GEN(PL;PSS-2;PSS-SG	kontak lenslerinin
+kontak lens	N;GEN(PL;PSS-3;PSS-SG	kontak lenslerinin
+kontak lens	N;GEN(SG;PSS-1;PSS-PL	kontak lensimizin
+kontak lens	N;GEN(SG;PSS-2;PSS-PL	kontak lensinizin
+kontak lens	N;GEN(SG;PSS-2;PSS-SG	kontak lensinin
+kontak lens	N;LOC(PL;PSS-1;PSS-PL	kontak lenslerimizde
+kontak lens	N;LOC(SG;PSS-1;PSS-PL	kontak lensimizde
+kontak lens	N;LOC(SG;PSS-2;PSS-PL	kontak lensinizde
+kontak lens	N;NOM-PL	kontak lensler
+kontak lens	N;NOM(PL;PSS-1;PSS-PL	kontak lenslerimiz
+kontak lens	N;NOM(PL;PSS-3;PSS-SG	kontak lensleri
+koza	N;ABL(PL;PSS-2;PSS-PL	kozalarınızdan
+koza	N;ABL(SG;PSS-1;PSS-PL	kozamızdan
+koza	N;ABL(SG;PSS-2;PSS-SG	kozandan
+koza	N;ACC-PL	kozaları
+koza	N;ACC(PL;PSS-1;PSS-PL	kozalarımızı
+koza	N;ACC(PL;PSS-2;PSS-SG	kozalarını
+koza	N;ACC(PL;PSS-3;PSS-SG	kozalarını
+koza	N;ACC-SG	kozayı
+koza	N;ACC(SG;PSS-1;PSS-PL	kozamızı
+koza	N;ACC(SG;PSS-2;PSS-SG	kozanı
+koza	N;DAT-PL	kozalara
+koza	N;DAT-SG	kozaya
+koza	N;GEN(SG;PSS-1;PSS-PL	kozamızın
+koza	N;GEN(SG;PSS-2;PSS-PL	kozanızın
+koza	N;GEN(SG;PSS-2;PSS-SG	kozanın
+koza	N;GEN(SG;PSS-3;PSS-SG	kozasının
+koza	N;LOC(PL;PSS-2;PSS-PL	kozalarınızda
+koza	N;LOC-SG	kozada
+koza	N;NOM-PL	kozalar
+koza	N;NOM-SG	koza
+koza	N;NOM(SG;PSS-2;PSS-PL	kozanız
+koza	N;NOM(SG;PSS-2;PSS-SG	kozan
+köpürmek	V;IND;FUT;POS;DECL;NOM-1;NOM-SG	köpüreceğim
+köpürmek	V;IND;PST;HAB;POS;DECL;NOM-1;NOM-PL	köpürürdük
+köpürmek	V;IND;PST;PERF;NEG;INTR;NOM-2;NOM-SG	köpürmedi miydin
+köpürmek	V;IND;PST;PERF;POS;DECL;NOM-2;NOM-PL	köpürdüydünüz
+köpürmek	V;IND;PST;PROG;NEG;INTR;NOM-2;NOM-SG	köpürmüyor muydun
+köpürmek	V;IND;PST;PROG;POS;DECL;NOM-2;NOM-SG	köpürüyordun
+köpürmek	V;IND;PST;PRSP;INTR;POS;NOM-3;NOM-PL	köpürecekler miydi
+köpürmek	V;IND;PST;PRSP;PROG;INTR;POS;NOM-3;NOM-PL	köpürüyor olacaklar mıydı
+köpürmek	V;INFR;FUT;PERF;INTR;POS;NOM-3;NOM-SG	köpürmüş olacak mı
+köpürmek	V;INFR;FUT;PERF;NEG;INTR;NOM-3;NOM-SG	köpürmüş olmayacak mı
+köpürmek	V;INFR;FUT;PERF;POS;DECL;NOM-2;NOM-PL	köpürmüş olacaksınız
+köpürmek	V;INFR;FUT;POS;DECL;NOM-2;NOM-SG	köpürecekmişsin
+köpürmek	V;INFR;PRS;HAB;NEG;INTR;NOM-2;NOM-SG	köpürmez miymişsin
+köpürmek	V;INFR;PST;PERF;NEG;INTR;NOM-1;NOM-SG	köpürmemiş miydim
+köpürmek	V;INFR;PST;SG;NEG;INTR;NOM-1	köpürmemiş miymişim
+köpürmek	V;NEC;INFR;PRS;PROG;NEG;DECL;NOM-2;NOM-SG	köpürüyor olmamalıymışsın
+köpürmek	V;NEC;PRS;POS;DECL;NOM-1;NOM-SG	köpürmeliyim
+köpürmek	V;NEC;PRS;POS;DECL;NOM-3;NOM-PL	köpürmeliler
+köpürmek	V;NEC;PRS;PROG;POS;DECL;NOM-3;NOM-PL	köpürüyor olmalılar
+lehçe	N;ABL(PL;PSS-1;PSS-PL	lehçelerimizden
+lehçe	N;ABL(PL;PSS-2;PSS-PL	lehçelerinizden
+lehçe	N;ABL(SG;PSS-1;PSS-PL	lehçemizden
+lehçe	N;ACC(PL;PSS-2;PSS-PL	lehçelerinizi
+lehçe	N;ACC(PL;PSS-2;PSS-SG	lehçelerini
+lehçe	N;ACC-SG	lehçeyi
+lehçe	N;ACC(SG;PSS-2;PSS-SG	lehçeni
+lehçe	N;DAT-PL	lehçelere
+lehçe	N;DAT(PL;PSS-1;PSS-PL	lehçelerimize
+lehçe	N;GEN-PL	lehçelerin
+lehçe	N;GEN(SG;PSS-1;PSS-PL	lehçemizin
+lehçe	N;LOC-PL	lehçelerde
+lehçe	N;LOC(PL;PSS-1;PSS-PL	lehçelerimizde
+lehçe	N;LOC(PL;PSS-2;PSS-PL	lehçelerinizde
+lehçe	N;LOC(PL;PSS-3;PSS-SG	lehçelerinde
+lehçe	N;LOC(SG;PSS-1;PSS-PL	lehçemizde
+lehçe	N;LOC(SG;PSS-2;PSS-PL	lehçenizde
+lehçe	N;LOC(SG;PSS-3;PSS-SG	lehçesinde
+lehçe	N;NOM-PL	lehçeler
+lehçe	N;NOM(PL;PSS-3;PSS-SG	lehçeleri
+lehçe	N;NOM(SG;PSS-2;PSS-PL	lehçeniz
+mantık	N;ABL-PL	mantıklardan
+mantık	N;ABL(PL;PSS-2;PSS-SG	mantıklarından
+mantık	N;ABL(SG;PSS-1;PSS-PL	mantığımızdan
+mantık	N;ABL(SG;PSS-3;PSS-SG	mantığından
+mantık	N;ACC-SG	mantığı
+mantık	N;ACC(SG;PSS-2;PSS-SG	mantığını
+mantık	N;ACC(SG;PSS-3;PSS-SG	mantığını
+mantık	N;DAT(PL;PSS-2;PSS-SG	mantıklarına
+mantık	N;DAT-SG	mantığa
+mantık	N;DAT(SG;PSS-2;PSS-PL	mantığınıza
+mantık	N;DAT(SG;PSS-2;PSS-SG	mantığına
+mantık	N;GEN(SG;PSS-1;PSS-PL	mantığımızın
+mantık	N;LOC(PL;PSS-2;PSS-PL	mantıklarınızda
+mantık	N;LOC(PL;PSS-3;PSS-SG	mantıklarında
+mantık	N;LOC(SG;PSS-1;PSS-PL	mantığımızda
+mantık	N;LOC(SG;PSS-3;PSS-SG	mantığında
+mantık	N;NOM-PL	mantıklar
+mantık	N;NOM(PL;PSS-2;PSS-PL	mantıklarınız
+mantık	N;NOM-SG	mantık
+mantık	N;NOM(SG;PSS-2;PSS-PL	mantığınız
+mantık	N;NOM(SG;PSS-2;PSS-SG	mantığın
+mantık	N;NOM(SG;PSS-3;PSS-SG	mantığı
+mayonez	N;ABL-PL	mayonezlerden
+mayonez	N;ABL(PL;PSS-2;PSS-SG	mayonezlerinden
+mayonez	N;ABL(PL;PSS-3;PSS-SG	mayonezlerinden
+mayonez	N;ABL(SG;PSS-1;PSS-PL	mayonezimizden
+mayonez	N;ABL(SG;PSS-2;PSS-PL	mayonezinizden
+mayonez	N;ACC(PL;PSS-1;PSS-PL	mayonezlerimizi
+mayonez	N;ACC(PL;PSS-3;PSS-SG	mayonezlerini
+mayonez	N;ACC-SG	mayonezi
+mayonez	N;ACC(SG;PSS-2;PSS-PL	mayonezinizi
+mayonez	N;DAT-PL	mayonezlere
+mayonez	N;DAT-SG	mayoneze
+mayonez	N;DAT(SG;PSS-2;PSS-SG	mayonezine
+mayonez	N;GEN-PL	mayonezlerin
+mayonez	N;GEN(PL;PSS-2;PSS-PL	mayonezlerinizin
+mayonez	N;GEN-SG	mayonezin
+mayonez	N;LOC(PL;PSS-2;PSS-PL	mayonezlerinizde
+mayonez	N;LOC(PL;PSS-3;PSS-SG	mayonezlerinde
+mayonez	N;LOC(SG;PSS-2;PSS-PL	mayonezinizde
+mayonez	N;LOC(SG;PSS-2;PSS-SG	mayonezinde
+mayonez	N;LOC(SG;PSS-3;PSS-SG	mayonezinde
+mayonez	N;NOM-SG	mayonez
+mayonez	N;NOM(SG;PSS-2;PSS-SG	mayonezin
+nefes aldırmak	V;IND;FUT;INTR;POS;NOM-1;NOM-PL	nefes aldıracak mıyız
+nefes aldırmak	V;IND;PRS;PROG;INTR;POS;NOM-3;NOM-PL	nefes aldırıyorlar mı
+nefes aldırmak	V;IND;PRS;PROG;POS;DECL;NOM-3;NOM-PL	nefes aldırıyorlar
+nefes aldırmak	V;IND;PST;HAB;PROG;NEG;DECL;NOM-1;NOM-PL	nefes aldırıyor olmazdık
+nefes aldırmak	V;IND;PST;HAB;PROG;NEG;DECL;NOM-1;NOM-SG	nefes aldırıyor olmazdım
+nefes aldırmak	V;IND;PST;HAB;PROG;NEG;DECL;NOM-3;NOM-PL	nefes aldırıyor olmazlardı
+nefes aldırmak	V;IND;PST;HAB;PROG;NEG;INTR;NOM-3;NOM-SG	nefes aldırıyor olmaz mıydı
+nefes aldırmak	V;IND;PST;POS;DECL;NOM-3;NOM-PL	nefes aldırdılar
+nefes aldırmak	V;INFR;FUT;PROG;POS;DECL;NOM-3;NOM-SG	nefes aldırıyor olacakmış
+nefes aldırmak	V;INFR;FUT;PRSP;NEG;INTR;NOM-2;NOM-SG	nefes aldıracak olmayacak mıymışsın
+nefes aldırmak	V;INFR;PRS;HAB;POS;DECL;NOM-2;NOM-PL	nefes aldırırmışsınız
+nefes aldırmak	V;INFR;PRS;PROG;INTR;POS;NOM-1;NOM-SG	nefes aldırıyor muymuşum
+nefes aldırmak	V;INFR;PRS;PROG;NEG;DECL;NOM-1;NOM-PL	nefes aldırmıyormuşuz
+nefes aldırmak	V;INFR;PRS;PROG;NEG;DECL;NOM-2;NOM-SG	nefes aldırmıyormuşsun
+nefes aldırmak	V;INFR;PST;PERF;NEG;INTR;NOM-2;NOM-PL	nefes aldırmamış mıydınız
+nefes aldırmak	V;INFR;PST;PERF;POS;DECL;NOM-2;NOM-SG	nefes aldırmıştın
+nefes aldırmak	V;NEC;PRS;NEG;DECL;NOM-1;NOM-PL	nefes aldırmameliyiz
+nefes aldırmak	V;NEC;PRS;PROG;NEG;DECL;NOM-1;NOM-PL	nefes aldırıyor olmamalıyız
+nefes aldırmak	V;NEC;PST;INTR;POS;NOM-3;NOM-SG	nefes aldırmalı mıydı
+nefes aldırmak	V;NEC;PST;NEG;DECL;NOM-3;NOM-SG	nefes aldırmamalıydı
+nefes aldırmak	V;NEC;PST;POS;DECL;NOM-3;NOM-SG	nefes aldırmalıydı
+nefes aldırmak	V;NEC;PST;PROG;NEG;INTR;NOM-2;NOM-PL	nefes aldırıyor olmamalı mıydınız
+osurmak	V;IND;FUT;PRSP;INTR;POS;NOM-2;NOM-PL	osuracak olacak mısınız
+osurmak	V;IND;FUT;PRSP;INTR;POS;NOM-3;NOM-SG	osuracak olacak mı
+osurmak	V;IND;FUT;PRSP;NEG;INTR;NOM-2;NOM-SG	osuracak olmayacak mısın
+osurmak	V;IND;PRS;PROG;INTR;POS;NOM-1;NOM-PL	osuruyor muyuz
+osurmak	V;IND;PST;HAB;PROG;INTR;POS;NOM-1;NOM-PL	osuruyor olur muyduk
+osurmak	V;IND;PST;HAB;PROG;NEG;DECL;NOM-3;NOM-PL	osuruyor olmazlardı
+osurmak	V;IND;PST;PERF;INTR;POS;NOM-2;NOM-SG	osurdu muydun
+osurmak	V;IND;PST;PROG;POS;DECL;NOM-1;NOM-PL	osuruyorduk
+osurmak	V;IND;PST;PRSP;PROG;POS;DECL;NOM-1;NOM-SG	osuruyor olacaktım
+osurmak	V;IND;PST;PRSP;PROG;POS;DECL;NOM-3;NOM-SG	osuruyor olacaktı
+osurmak	V;INFR;FUT;HAB;NEG;INTR;NOM-3;NOM-PL	osurur olmayacaklar mıymış
+osurmak	V;INFR;FUT;PERF;NEG;DECL;NOM-2;NOM-SG	osurmuş olmayacaksın
+osurmak	V;INFR;PRS;HAB;INTR;POS;NOM-1;NOM-PL	osurur muymuşuz
+osurmak	V;INFR;PRS;HAB;INTR;POS;NOM-2;NOM-SG	osurur muymuşsun
+osurmak	V;INFR;PRS;PROG;INTR;POS;NOM-3;NOM-SG	osuruyor muymuş
+osurmak	V;INFR;PST;INTR;POS;NOM-3;NOM-PL	osurmuşlar mı
+osurmak	V;INFR;PST;PERF;INTR;POS;NOM-3;NOM-PL	osurmuşlar mıydı
+osurmak	V;NEC;INFR;PRS;PROG;INTR;POS;NOM-3;NOM-PL	osuruyor olmalılar mıymış
+osurmak	V;NEC;INFR;PST;NEG;DECL;NOM-3;NOM-PL	osurmamalılarmış
+osurmak	V;NEC;PST;NEG;INTR;NOM-1;NOM-SG	osurmamalı mıydım
+osurmak	V;NEC;PST;PROG;POS;DECL;NOM-3;NOM-PL	osuruyor olmalılardı
+parlatmak	V;IND;FUT;INTR;POS;NOM-2;NOM-PL	parlatacak mısınız
+parlatmak	V;IND;FUT;PRSP;NEG;INTR;NOM-1;NOM-SG	parlatacak olmayacak mıyım
+parlatmak	V;IND;FUT;PRSP;POS;DECL;NOM-1;NOM-PL	parlatacak olacağız
+parlatmak	V;IND;PRS;HAB;INTR;POS;NOM-2;NOM-PL	parlatır mısınız
+parlatmak	V;IND;PRS;HAB;NEG;INTR;NOM-3;NOM-SG	parlatmaz mı
+parlatmak	V;IND;PRS;PROG;INTR;POS;NOM-2;NOM-PL	parlatıyor musunuz
+parlatmak	V;IND;PST;HAB;PROG;NEG;INTR;NOM-3;NOM-PL	parlatıyor olmazlar mıydı
+parlatmak	V;IND;PST;HAB;PROG;POS;DECL;NOM-3;NOM-PL	parlatıyor olurlardı
+parlatmak	V;IND;PST;PERF;POS;DECL;NOM-1;NOM-PL	parlattıydık
+parlatmak	V;IND;PST;PROG;NEG;INTR;NOM-1;NOM-PL	parlatmıyor muyduk
+parlatmak	V;IND;PST;PRSP;NEG;INTR;NOM-1;NOM-PL	parlatmayacak mıydık
+parlatmak	V;IND;PST;PRSP;POS;DECL;NOM-1;NOM-SG	parlatacaktım
+parlatmak	V;INFR;FUT;NEG;DECL;NOM-3;NOM-SG	parlatmayacakmış
+parlatmak	V;INFR;PRS;PROG;NEG;DECL;NOM-1;NOM-SG	parlatmıyormuşum
+parlatmak	V;INFR;PRS;PROG;NEG;DECL;NOM-2;NOM-SG	parlatmıyormuşsun
+parlatmak	V;INFR;PST;PL;POS;DECL;NOM-3	parlatmışlarmış
+parlatmak	V;INFR;PST;POS;DECL;NOM-1;NOM-SG	parlatmışım
+parlatmak	V;NEC;PRS;INTR;POS;NOM-1;NOM-SG	parlatmeli miyim
+parlatmak	V;NEC;PRS;NEG;DECL;NOM-2;NOM-PL	parlatmamelisiniz
+parlatmak	V;NEC;PRS;NEG;INTR;NOM-3;NOM-SG	parlatmameli mi
+parlatmak	V;NEC;PRS;POS;DECL;NOM-2;NOM-SG	parlatmelisin
+parlatmak	V;NEC;PRS;PROG;NEG;INTR;NOM-3;NOM-PL	parlatıyor olmamalılar mı
+profiterol	N;ABL-PL	profiterollerden
+profiterol	N;ABL-SG	profiterolden
+profiterol	N;ACC-PL	profiterolleri
+profiterol	N;ACC-SG	profiterolü
+profiterol	N;DAT-SG	profiterole
+profiterol	N;GEN-PL	profiterollerin
+profiterol	N;GEN-SG	profiterolün
+profiterol	N;LOC-PL	profiterollerde
+profiterol	N;LOC-SG	profiterolde
+profiterol	N;NOM-PL	profiteroller
+profiterol	N;NOM-SG	profiterol
+sevmek	V;IND;FUT;NEG;DECL;NOM-2;NOM-PL	sevmeyeceksiniz
+sevmek	V;IND;FUT;NEG;DECL;NOM-3;NOM-SG	sevmeyecek
+sevmek	V;IND;FUT;PROG;NEG;DECL;NOM-1;NOM-SG	seviyor olmayacağım
+sevmek	V;IND;PST;HAB;POS;DECL;NOM-3;NOM-PL	severlerdi
+sevmek	V;IND;PST;HAB;PROG;INTR;POS;NOM-1;NOM-PL	seviyor olur muyduk
+sevmek	V;IND;PST;NEG;DECL;NOM-2;NOM-SG	sevmedin
+sevmek	V;IND;PST;PROG;POS;DECL;NOM-2;NOM-PL	seviyordunuz
+sevmek	V;IND;PST;PRSP;INTR;POS;NOM-3;NOM-PL	sevecekler miydi
+sevmek	V;IND;PST;PRSP;PROG;NEG;INTR;NOM-2;NOM-PL	seviyor olmayacak mıydınız
+sevmek	V;IND;PST;PRSP;PROG;NEG;INTR;NOM-3;NOM-PL	seviyor olmayacaklar mıydı
+sevmek	V;INFR;FUT;HAB;INTR;POS;NOM-3;NOM-SG	sever olacak mıymış
+sevmek	V;INFR;FUT;HAB;NEG;DECL;NOM-3;NOM-PL	sever olmayacaklarmış
+sevmek	V;INFR;FUT;INTR;POS;NOM-2;NOM-PL	sevecek miymişsiniz
+sevmek	V;INFR;FUT;PROG;NEG;DECL;NOM-1;NOM-SG	seviyor olmayacakmışım
+sevmek	V;INFR;PRS;HAB;NEG;DECL;NOM-3;NOM-PL	sevmezlermiş
+sevmek	V;INFR;PRS;HAB;POS;DECL;NOM-2;NOM-SG	severmişsin
+sevmek	V;INFR;PST;PL;POS;DECL;NOM-1	sevmişmişiz
+sevmek	V;NEC;PRS;PROG;INTR;POS;NOM-1;NOM-SG	seviyor olmalı mıyım
+sevmek	V;NEC;PST;NEG;INTR;NOM-2;NOM-SG	sevmemeli miydin
+sevmek	V;NEC;PST;PROG;NEG;INTR;NOM-3;NOM-PL	seviyor olmamalılar mıydı
+sevmek	V;NEC;PST;PROG;POS;DECL;NOM-3;NOM-PL	seviyor olmalılardı
+sincap	N;ABL(PL;PSS-2;PSS-SG	sincaplarından
+sincap	N;ABL-SG	sincaptan
+sincap	N;ABL(SG;PSS-2;PSS-PL	sincabınızdan
+sincap	N;ACC(PL;PSS-1;PSS-PL	sincaplarımızı
+sincap	N;ACC(PL;PSS-3;PSS-SG	sincaplarını
+sincap	N;ACC(SG;PSS-2;PSS-SG	sincabını
+sincap	N;ACC(SG;PSS-3;PSS-SG	sincabını
+sincap	N;DAT(SG;PSS-2;PSS-PL	sincabınıza
+sincap	N;DAT(SG;PSS-3;PSS-SG	sincabına
+sincap	N;GEN-PL	sincapların
+sincap	N;GEN(PL;PSS-1;PSS-PL	sincaplarımızın
+sincap	N;GEN(PL;PSS-2;PSS-PL	sincaplarınızın
+sincap	N;GEN(PL;PSS-3;PSS-SG	sincaplarının
+sincap	N;GEN-SG	sincabın
+sincap	N;GEN(SG;PSS-2;PSS-PL	sincabınızın
+sincap	N;LOC-PL	sincaplarda
+sincap	N;LOC(PL;PSS-3;PSS-SG	sincaplarında
+sincap	N;LOC(SG;PSS-2;PSS-PL	sincabınızda
+sincap	N;NOM(PL;PSS-1;PSS-PL	sincaplarımız
+sincap	N;NOM(PL;PSS-3;PSS-SG	sincapları
+sincap	N;NOM(SG;PSS-2;PSS-SG	sincabın
+solmak	V;IND;PRS;HAB;NEG;DECL;NOM-3;NOM-SG	solmaz
+solmak	V;IND;PRS;PROG;INTR;POS;NOM-3;NOM-PL	soluyorlar mı
+solmak	V;IND;PST;HAB;INTR;POS;NOM-2;NOM-PL	solar mıydınız
+solmak	V;IND;PST;INTR;POS;NOM-3;NOM-SG	soldu mu
+solmak	V;IND;PST;POS;DECL;NOM-3;NOM-SG	soldu
+solmak	V;IND;PST;PROG;NEG;INTR;NOM-2;NOM-SG	solmuyor muydun
+solmak	V;IND;PST;PRSP;NEG;DECL;NOM-2;NOM-SG	solmayacaktın
+solmak	V;IND;PST;PRSP;NEG;INTR;NOM-3;NOM-PL	solmayacaklar mıydı
+solmak	V;IND;PST;PRSP;POS;DECL;NOM-3;NOM-PL	solacaklardı
+solmak	V;INFR;FUT;POS;DECL;NOM-1;NOM-PL	solacakmışız
+solmak	V;INFR;FUT;POS;DECL;NOM-1;NOM-SG	solacakmışım
+solmak	V;INFR;FUT;PROG;NEG;INTR;NOM-1;NOM-SG	soluyor olmayacak mıymışım
+solmak	V;INFR;FUT;PRSP;NEG;INTR;NOM-1;NOM-SG	solacak olmayacak mıymışım
+solmak	V;INFR;PST;PERF;POS;DECL;NOM-1;NOM-PL	solmuştuk
+solmak	V;INFR;PST;PL;POS;DECL;NOM-2	solmuşmuşsunuz
+solmak	V;INFR;PST;PRSP;NEG;DECL;NOM-3;NOM-PL	solmuş olmayacaklardı
+solmak	V;INFR;PST;PRSP;POS;DECL;NOM-1;NOM-SG	solmuş olacaktım
+solmak	V;NEC;PRS;PROG;NEG;DECL;NOM-3;NOM-PL	soluyor olmamalılar
+solmak	V;NEC;PRS;PROG;NEG;INTR;NOM-3;NOM-SG	soluyor olmamalı mı
+solmak	V;NEC;PST;INTR;POS;NOM-3;NOM-SG	solmalı mıydı
+solmak	V;NEC;PST;NEG;INTR;NOM-2;NOM-SG	solmamalı mıydın
+sorum	N;ABL-PL	sorumlardan
+sorum	N;ABL-SG	sorumdan
+sorum	N;ACC-PL	sorumları
+sorum	N;ACC-SG	sorumu
+sorum	N;DAT-PL	sorumlara
+sorum	N;DAT-SG	soruma
+sorum	N;GEN-PL	sorumların
+sorum	N;GEN-SG	sorumun
+sorum	N;LOC-PL	sorumlarda
+sorum	N;LOC-SG	sorumda
+sorum	N;NOM-PL	sorumlar
+sorum	N;NOM-SG	sorum
+sümürmek	V;IND;FUT;NEG;DECL;NOM-3;NOM-PL	sümürmeyecekler
+sümürmek	V;IND;FUT;POS;DECL;NOM-2;NOM-SG	sümüreceksin
+sümürmek	V;IND;FUT;PROG;NEG;DECL;NOM-2;NOM-SG	sümürüyor olmayacaksın
+sümürmek	V;IND;FUT;PROG;NEG;INTR;NOM-3;NOM-SG	sümürüyor olmayacak mı
+sümürmek	V;IND;FUT;PRSP;NEG;INTR;NOM-2;NOM-SG	sümürecek olmayacak mısın
+sümürmek	V;IND;PRS;PROG;NEG;DECL;NOM-3;NOM-PL	sümürmüyorlar
+sümürmek	V;IND;PST;HAB;NEG;DECL;NOM-3;NOM-PL	sümürmezlerdi
+sümürmek	V;IND;PST;NEG;INTR;NOM-2;NOM-PL	sümürmediniz mi
+sümürmek	V;IND;PST;PERF;NEG;DECL;NOM-1;NOM-SG	sümürmediydim
+sümürmek	V;IND;PST;PERF;POS;DECL;NOM-2;NOM-PL	sümürdüydünüz
+sümürmek	V;IND;PST;PROG;NEG;DECL;NOM-1;NOM-SG	sümürmüyordum
+sümürmek	V;IND;PST;PRSP;PROG;INTR;POS;NOM-2;NOM-SG	sümürüyor olacak mıydın
+sümürmek	V;INFR;FUT;PRSP;INTR;POS;NOM-2;NOM-PL	sümürecek olacak mıymışsınız
+sümürmek	V;INFR;PRS;HAB;NEG;DECL;NOM-3;NOM-PL	sümürmezlermiş
+sümürmek	V;INFR;PST;NEG;INTR;NOM-2;NOM-PL	sümürmemiş misiniz
+sümürmek	V;INFR;PST;POS;DECL;NOM-2;NOM-SG	sümürmüşsün
+sümürmek	V;NEC;INFR;PRS;PROG;NEG;INTR;NOM-3;NOM-PL	sümürüyor olmamalılar mıymış
+sümürmek	V;NEC;INFR;PST;NEG;INTR;NOM-1;NOM-SG	sümürmemeli miymişim
+sümürmek	V;NEC;PRS;NEG;INTR;NOM-1;NOM-SG	sümürmemeli miyim
+sümürmek	V;NEC;PST;NEG;INTR;NOM-3;NOM-SG	sümürmemeli miydi
+sümürmek	V;NEC;PST;POS;DECL;NOM-2;NOM-SG	sümürmeliydin
+sümürmek	V;NEC;PST;PROG;INTR;POS;NOM-1;NOM-SG	sümürüyor olmalı mıydım
+süper kahraman	N;ABL-PL	süper kahramanlardan
+süper kahraman	N;ABL-SG	süper kahramandan
+süper kahraman	N;ACC-PL	süper kahramanları
+süper kahraman	N;ACC-SG	süper kahramanı
+süper kahraman	N;DAT-PL	süper kahramanlara
+süper kahraman	N;DAT-SG	süper kahramana
+süper kahraman	N;GEN-PL	süper kahramanların
+süper kahraman	N;GEN-SG	süper kahramanın
+süper kahraman	N;LOC-PL	süper kahramanlarda
+süper kahraman	N;NOM-PL	süper kahramanlar
+süper kahraman	N;NOM-SG	süper kahraman
+tutmak	V;IND;FUT;INTR;POS;NOM-2;NOM-PL	tutacak mısınız
+tutmak	V;IND;PRS;HAB;POS;DECL;NOM-3;NOM-SG	tutar
+tutmak	V;IND;PRS;PROG;NEG;INTR;NOM-2;NOM-PL	tutmuyor musunuz
+tutmak	V;IND;PST;HAB;NEG;DECL;NOM-2;NOM-SG	tutmazdın
+tutmak	V;IND;PST;HAB;NEG;INTR;NOM-1;NOM-SG	tutmaz mıydım
+tutmak	V;IND;PST;HAB;PROG;POS;DECL;NOM-3;NOM-PL	tutuyor olurlardı
+tutmak	V;IND;PST;PERF;NEG;DECL;NOM-2;NOM-PL	tutmadıydınız
+tutmak	V;IND;PST;PRSP;PROG;NEG;DECL;NOM-3;NOM-PL	tutuyor olmayacaklardı
+tutmak	V;INFR;FUT;INTR;POS;NOM-3;NOM-PL	tutacaklar mıymış
+tutmak	V;INFR;FUT;POS;DECL;NOM-2;NOM-SG	tutacakmışsın
+tutmak	V;INFR;FUT;PROG;INTR;POS;NOM-2;NOM-SG	tutuyor olacak mıymışsın
+tutmak	V;INFR;FUT;PRSP;INTR;POS;NOM-3;NOM-PL	tutacak olacaklar mıymış
+tutmak	V;INFR;FUT;PRSP;POS;DECL;NOM-1;NOM-PL	tutacak olacakmışız
+tutmak	V;INFR;PRS;HAB;NEG;DECL;NOM-2;NOM-SG	tutmazmışsın
+tutmak	V;INFR;PRS;HAB;NEG;INTR;NOM-1;NOM-PL	tutmaz mıymışız
+tutmak	V;INFR;PST;PERF;INTR;POS;NOM-1;NOM-PL	tutmuş muyduk
+tutmak	V;INFR;PST;SG;NEG;INTR;NOM-2	tutmamış mıymışsın
+tutmak	V;NEC;INFR;PRS;PROG;POS;DECL;NOM-3;NOM-SG	tutuyor olmalıymış
+tutmak	V;NEC;INFR;PST;NEG;DECL;NOM-1;NOM-PL	tutmamalıymışız
+tutmak	V;NEC;PRS;INTR;POS;NOM-3;NOM-PL	tutmeliler mi
+tutmak	V;NEC;PST;PROG;POS;DECL;NOM-2;NOM-PL	tutuyor olmalıydınız
+tıraş olmak	V;IND;FUT;PROG;NEG;DECL;NOM-1;NOM-SG	tıraş oluyor olmayacağım
+tıraş olmak	V;IND;FUT;PRSP;NEG;INTR;NOM-3;NOM-PL	tıraş olacak olmayacaklar mı
+tıraş olmak	V;IND;PRS;PROG;NEG;INTR;NOM-1;NOM-PL	tıraş olmuyor muyuz
+tıraş olmak	V;IND;PRS;PROG;POS;DECL;NOM-2;NOM-PL	tıraş oluyorsunuz
+tıraş olmak	V;IND;PST;HAB;INTR;POS;NOM-1;NOM-PL	tıraş olur muyduk
+tıraş olmak	V;IND;PST;NEG;DECL;NOM-1;NOM-PL	tıraş olmadık
+tıraş olmak	V;IND;PST;PERF;INTR;POS;NOM-3;NOM-PL	tıraş oldular mıydı
+tıraş olmak	V;IND;PST;PERF;POS;DECL;NOM-1;NOM-SG	tıraş olduydum
+tıraş olmak	V;IND;PST;PRSP;NEG;DECL;NOM-1;NOM-PL	tıraş olmayacaktık
+tıraş olmak	V;INFR;FUT;HAB;POS;DECL;NOM-3;NOM-SG	tıraş olur olacakmış
+tıraş olmak	V;INFR;FUT;PROG;INTR;POS;NOM-3;NOM-SG	tıraş oluyor olacak mıymış
+tıraş olmak	V;INFR;FUT;PRSP;NEG;INTR;NOM-2;NOM-SG	tıraş olacak olmayacak mıymışsın
+tıraş olmak	V;INFR;PRS;HAB;INTR;POS;NOM-3;NOM-SG	tıraş olur muymuş
+tıraş olmak	V;INFR;PRS;HAB;POS;DECL;NOM-1;NOM-SG	tıraş olurmuşum
+tıraş olmak	V;INFR;PST;PRSP;NEG;DECL;NOM-3;NOM-SG	tıraş olmuş olmayacaktı
+tıraş olmak	V;INFR;PST;PRSP;NEG;INTR;NOM-2;NOM-SG	tıraş olmuş olmayacak mıydın
+tıraş olmak	V;INFR;PST;SG;INTR;POS;NOM-2	tıraş olmuş muymuşsun
+tıraş olmak	V;INFR;PST;SG;NEG;INTR;NOM-3	tıraş olmamış mıymış
+tıraş olmak	V;NEC;INFR;PST;INTR;POS;NOM-3;NOM-PL	tıraş olmalılar mıymış
+tıraş olmak	V;NEC;INFR;PST;POS;DECL;NOM-2;NOM-PL	tıraş olmalıymışsınız
+tıraş olmak	V;NEC;PRS;NEG;INTR;NOM-3;NOM-PL	tıraş olmameliler mi
+tıraş olmak	V;NEC;PST;PROG;INTR;POS;NOM-3;NOM-PL	tıraş oluyor olmalılar mıydı
+yangın	N;ABL(PL;PSS-2;PSS-PL	yangınlarınızdan
+yangın	N;ABL(PL;PSS-2;PSS-SG	yangınlarından
+yangın	N;ABL(PL;PSS-3;PSS-SG	yangınlarından
+yangın	N;ABL(SG;PSS-3;PSS-SG	yangınından
+yangın	N;ACC(PL;PSS-1;PSS-PL	yangınlarımızı
+yangın	N;ACC(SG;PSS-1;PSS-PL	yangınımızı
+yangın	N;DAT(PL;PSS-3;PSS-SG	yangınlarına
+yangın	N;DAT(SG;PSS-1;PSS-PL	yangınımıza
+yangın	N;DAT(SG;PSS-2;PSS-SG	yangınına
+yangın	N;GEN(PL;PSS-2;PSS-SG	yangınlarının
+yangın	N;GEN(PL;PSS-3;PSS-SG	yangınlarının
+yangın	N;GEN(SG;PSS-3;PSS-SG	yangınının
+yangın	N;LOC(PL;PSS-1;PSS-PL	yangınlarımızda
+yangın	N;NOM(SG;PSS-2;PSS-PL	yangınınız
+yangın	N;PL;IND;PST;NOM-2;NOM-PL	yangınlardınız
+yangın	N;PL;IND;PST;NOM-2;NOM-SG	yangınlardın
+yangın	N;PL;PRS;NOM-2;NOM-PL	yangınlarsınız
+yangın	N;SG;IND;PST;NOM-1;NOM-PL	yangındık
+yangın	N;SG;INFR;PST;NOM-1;NOM-SG	yangınmışım
+yangın	N;SG;INFR;PST;NOM-2;NOM-SG	yangınmışsın
+yangın	N;SG;PRS;NOM-1;NOM-PL	yangınız
+yangın	N;SG;PRS;NOM-2;NOM-PL	yangınsınız
+yapışmak	V;IND;FUT;PROG;INTR;POS;NOM-2;NOM-PL	yapışıyor olacak mısınız
+yapışmak	V;IND;FUT;PROG;NEG;DECL;NOM-2;NOM-PL	yapışıyor olmayacaksınız
+yapışmak	V;IND;FUT;PROG;POS;DECL;NOM-3;NOM-SG	yapışıyor olacak
+yapışmak	V;IND;FUT;PRSP;NEG;INTR;NOM-2;NOM-PL	yapışacak olmayacak mısınız
+yapışmak	V;IND;FUT;PRSP;POS;DECL;NOM-2;NOM-PL	yapışacak olacaksınız
+yapışmak	V;IND;PST;HAB;INTR;POS;NOM-3;NOM-SG	yapışır mıydı
+yapışmak	V;IND;PST;HAB;PROG;INTR;POS;NOM-2;NOM-PL	yapışıyor olur muydunuz
+yapışmak	V;IND;PST;HAB;PROG;NEG;INTR;NOM-1;NOM-PL	yapışıyor olmaz mıydık
+yapışmak	V;IND;PST;PERF;INTR;POS;NOM-1;NOM-PL	yapıştı mıydık
+yapışmak	V;IND;PST;PROG;INTR;POS;NOM-2;NOM-PL	yapışıyor muydunuz
+yapışmak	V;IND;PST;PRSP;PROG;NEG;INTR;NOM-1;NOM-SG	yapışıyor olmayacak mıydım
+yapışmak	V;INFR;FUT;NEG;INTR;NOM-2;NOM-SG	yapışmayacak mıymışsın
+yapışmak	V;INFR;FUT;PERF;INTR;POS;NOM-1;NOM-PL	yapışmış olacak mıyız
+yapışmak	V;INFR;FUT;POS;DECL;NOM-2;NOM-PL	yapışacakmışsınız
+yapışmak	V;INFR;PST;PL;NEG;INTR;NOM-1	yapışmamış mıymışız
+yapışmak	V;INFR;PST;PRSP;INTR;POS;NOM-1;NOM-PL	yapışmış olacak mıydık
+yapışmak	V;INFR;PST;PRSP;INTR;POS;NOM-3;NOM-PL	yapışmış olacaklar mıydı
+yapışmak	V;NEC;PRS;PROG;POS;DECL;NOM-1;NOM-PL	yapışıyor olmalıyız
+yapışmak	V;NEC;PST;NEG;INTR;NOM-2;NOM-PL	yapışmamalı mıydınız
+yapışmak	V;NEC;PST;PROG;INTR;POS;NOM-3;NOM-SG	yapışıyor olmalı mıydı
+yapışmak	V;NEC;PST;PROG;NEG;DECL;NOM-2;NOM-SG	yapışıyor olmamalıydın
+yapışmak	V;NEC;PST;PROG;POS;DECL;NOM-3;NOM-SG	yapışıyor olmalıydı
+yoldurtmak	V;IND;FUT;INTR;POS;NOM-2;NOM-PL	yoldurtacak mısınız
+yoldurtmak	V;IND;FUT;INTR;POS;NOM-3;NOM-SG	yoldurtacak mı
+yoldurtmak	V;IND;FUT;POS;DECL;NOM-1;NOM-SG	yoldurtacağım
+yoldurtmak	V;IND;PRS;PROG;NEG;DECL;NOM-1;NOM-PL	yoldurtmuyoruz
+yoldurtmak	V;IND;PST;HAB;PROG;NEG;DECL;NOM-1;NOM-PL	yoldurtuyor olmazdık
+yoldurtmak	V;IND;PST;HAB;PROG;NEG;INTR;NOM-2;NOM-SG	yoldurtuyor olmaz mıydın
+yoldurtmak	V;IND;PST;NEG;DECL;NOM-1;NOM-PL	yoldurtmadık
+yoldurtmak	V;IND;PST;PERF;POS;DECL;NOM-2;NOM-PL	yoldurttuydunuz
+yoldurtmak	V;IND;PST;PROG;NEG;DECL;NOM-1;NOM-SG	yoldurtmuyordum
+yoldurtmak	V;IND;PST;PRSP;NEG;DECL;NOM-1;NOM-SG	yoldurtmayacaktım
+yoldurtmak	V;IND;PST;PRSP;POS;DECL;NOM-2;NOM-SG	yoldurtacaktın
+yoldurtmak	V;INFR;FUT;HAB;INTR;POS;NOM-2;NOM-SG	yoldurtur olacak mıymışsın
+yoldurtmak	V;INFR;FUT;HAB;NEG;DECL;NOM-1;NOM-SG	yoldurtur olmayacakmışım
+yoldurtmak	V;INFR;FUT;PRSP;INTR;POS;NOM-1;NOM-PL	yoldurtacak olacak mıymışız
+yoldurtmak	V;INFR;FUT;PRSP;NEG;DECL;NOM-1;NOM-PL	yoldurtacak olmayacakmışız
+yoldurtmak	V;INFR;PRS;HAB;INTR;POS;NOM-1;NOM-PL	yoldurtur muymuşuz
+yoldurtmak	V;INFR;PRS;HAB;NEG;DECL;NOM-2;NOM-SG	yoldurtmazmışsın
+yoldurtmak	V;INFR;PST;PERF;NEG;INTR;NOM-3;NOM-SG	yoldurtmamış mıydı
+yoldurtmak	V;INFR;PST;SG;NEG;DECL;NOM-2	yoldurtmamışmışsın
+yoldurtmak	V;NEC;PRS;POS;DECL;NOM-3;NOM-PL	yoldurtmeliler
+yoldurtmak	V;NFIN	yoldurtmak
+yordam	N;ABL(PL;PSS-2;PSS-SG	yordamlarından
+yordam	N;ABL(SG;PSS-1;PSS-PL	yordamımızdan
+yordam	N;ACC(PL;PSS-2;PSS-PL	yordamlarınızı
+yordam	N;ACC-SG	yordamı
+yordam	N;ACC(SG;PSS-1;PSS-PL	yordamımızı
+yordam	N;ACC(SG;PSS-2;PSS-SG	yordamını
+yordam	N;DAT(PL;PSS-2;PSS-PL	yordamlarınıza
+yordam	N;DAT(SG;PSS-2;PSS-PL	yordamınıza
+yordam	N;DAT(SG;PSS-2;PSS-SG	yordamına
+yordam	N;DAT(SG;PSS-3;PSS-SG	yordamına
+yordam	N;GEN-PL	yordamların
+yordam	N;GEN-SG	yordamın
+yordam	N;GEN(SG;PSS-3;PSS-SG	yordamının
+yordam	N;LOC(PL;PSS-3;PSS-SG	yordamlarında
+yordam	N;LOC-SG	yordamda
+yordam	N;LOC(SG;PSS-2;PSS-PL	yordamınızda
+yordam	N;LOC(SG;PSS-3;PSS-SG	yordamında
+yordam	N;NOM-PL	yordamlar
+yordam	N;NOM(PL;PSS-1;PSS-PL	yordamlarımız
+yordam	N;NOM(PL;PSS-3;PSS-SG	yordamları
+yordam	N;NOM-SG	yordam
+yönetim	N;ABL-PL	yönetimlerden
+yönetim	N;ABL(PL;PSS-1;PSS-PL	yönetimlerimizden
+yönetim	N;ABL(PL;PSS-2;PSS-SG	yönetimlerinden
+yönetim	N;ABL-SG	yönetimden
+yönetim	N;ABL(SG;PSS-2;PSS-PL	yönetiminizden
+yönetim	N;ACC(PL;PSS-2;PSS-PL	yönetimlerinizi
+yönetim	N;ACC(SG;PSS-1;PSS-PL	yönetimimizi
+yönetim	N;ACC(SG;PSS-2;PSS-PL	yönetiminizi
+yönetim	N;DAT(PL;PSS-2;PSS-PL	yönetimlerinize
+yönetim	N;DAT(PL;PSS-3;PSS-SG	yönetimlerine
+yönetim	N;DAT(SG;PSS-2;PSS-PL	yönetiminize
+yönetim	N;GEN-PL	yönetimlerin
+yönetim	N;GEN(SG;PSS-2;PSS-SG	yönetiminin
+yönetim	N;GEN(SG;PSS-3;PSS-SG	yönetiminin
+yönetim	N;LOC(PL;PSS-1;PSS-PL	yönetimlerimizde
+yönetim	N;LOC(PL;PSS-2;PSS-PL	yönetimlerinizde
+yönetim	N;LOC(SG;PSS-2;PSS-PL	yönetiminizde
+yönetim	N;LOC(SG;PSS-2;PSS-SG	yönetiminde
+yönetim	N;NOM(PL;PSS-1;PSS-PL	yönetimlerimiz
+yönetim	N;NOM-SG	yönetim
+yönetim	N;NOM(SG;PSS-1;PSS-PL	yönetimimiz
+yönetim	N;NOM(SG;PSS-2;PSS-PL	yönetiminiz
+yüksek fırın	N;ABL-SG	yüksek fırından
+yüksek fırın	N;ABL(SG;PSS-2;PSS-PL	yüksek fırınınızdan
+yüksek fırın	N;ACC-PL	yüksek fırınları
+yüksek fırın	N;ACC(SG;PSS-2;PSS-PL	yüksek fırınınızı
+yüksek fırın	N;ACC(SG;PSS-3;PSS-SG	yüksek fırınını
+yüksek fırın	N;DAT(PL;PSS-1;PSS-PL	yüksek fırınlarımıza
+yüksek fırın	N;DAT(PL;PSS-2;PSS-PL	yüksek fırınlarınıza
+yüksek fırın	N;GEN-PL	yüksek fırınların
+yüksek fırın	N;GEN(PL;PSS-2;PSS-SG	yüksek fırınlarının
+yüksek fırın	N;GEN(SG;PSS-3;PSS-SG	yüksek fırınının
+yüksek fırın	N;LOC(PL;PSS-3;PSS-SG	yüksek fırınlarında
+yüksek fırın	N;LOC(SG;PSS-1;PSS-PL	yüksek fırınımızda
+yüksek fırın	N;LOC(SG;PSS-2;PSS-SG	yüksek fırınında
+yüksek fırın	N;NOM(PL;PSS-2;PSS-SG	yüksek fırınların
+yüksek fırın	N;NOM(SG;PSS-2;PSS-PL	yüksek fırınınız
+yüksek fırın	N;PL;IND;PST;NOM-2;NOM-PL	yüksek fırınlardınız
+yüksek fırın	N;PL;IND;PST;NOM-3;NOM-SG	yüksek fırınlardı
+yüksek fırın	N;PL;INFR;PST;NOM-2;NOM-PL	yüksek fırınlarmışsınız
+yüksek fırın	N;PL;INFR;PST;NOM-2;NOM-SG	yüksek fırınlarmışsın
+yüksek fırın	N;SG;INFR;PST;NOM-2;NOM-PL	yüksek fırınmışsınız
+yüksek fırın	N;SG;PRS;NOM-2;NOM-SG	yüksek fırınsın
+yüksek fırın	N;SG;PRS;NOM-3;NOM-PL	yüksek fırınlar
+Çin dağ kedisi	N;ABL-PL	Çin dağ kedi
+Çin dağ kedisi	N;ABL-SG	Çin dağ kedisi
+Çin dağ kedisi	N;ACC-PL	Çin dağ kedi
+Çin dağ kedisi	N;ACC-SG	Çin dağ kedisi
+Çin dağ kedisi	N;DAT-PL	Çin dağ kedi
+Çin dağ kedisi	N;DAT-SG	Çin dağ kedisi
+Çin dağ kedisi	N;GEN-PL	Çin dağ kedi
+Çin dağ kedisi	N;GEN-SG	Çin dağ kedisi
+Çin dağ kedisi	N;LOC-PL	Çin dağ kedi
+Çin dağ kedisi	N;LOC-SG	Çin dağ kedisi
+Çin dağ kedisi	N;NOM-PL	Çin dağ kedi
+Çin dağ kedisi	N;NOM-SG	Çin dağ kedisi
+övmek	V;IND;FUT;NEG;DECL;NOM-3;NOM-SG	övmeyecek
+övmek	V;IND;PRS;HAB;NEG;DECL;NOM-1;NOM-SG	övmem
+övmek	V;IND;PRS;PROG;POS;DECL;NOM-1;NOM-PL	övüyoruz
+övmek	V;IND;PST;HAB;NEG;INTR;NOM-1;NOM-SG	övmez miydim
+övmek	V;IND;PST;HAB;NEG;INTR;NOM-3;NOM-SG	övmez miydi
+övmek	V;IND;PST;PRSP;INTR;POS;NOM-1;NOM-SG	övecek miydim
+övmek	V;IND;PST;PRSP;POS;DECL;NOM-1;NOM-SG	övecektim
+övmek	V;INFR;FUT;HAB;INTR;POS;NOM-2;NOM-PL	över olacak mıymışsınız
+övmek	V;INFR;FUT;HAB;NEG;DECL;NOM-3;NOM-PL	över olmayacaklarmış
+övmek	V;INFR;FUT;HAB;POS;DECL;NOM-3;NOM-SG	över olacakmış
+övmek	V;INFR;FUT;POS;DECL;NOM-3;NOM-PL	öveceklermiş
+övmek	V;INFR;FUT;PRSP;INTR;POS;NOM-1;NOM-PL	övecek olacak mıymışız
+övmek	V;INFR;PRS;HAB;NEG;INTR;NOM-1;NOM-SG	övmez miymişim
+övmek	V;INFR;PRS;PROG;INTR;POS;NOM-3;NOM-PL	övüyorlar mıymış
+övmek	V;INFR;PRS;PROG;NEG;DECL;NOM-2;NOM-PL	övmüyormuşsunuz
+övmek	V;INFR;PST;PERF;INTR;POS;NOM-1;NOM-SG	övmüş müydüm
+övmek	V;INFR;PST;PL;INTR;POS;NOM-1	övmüş müymüşüz
+övmek	V;INFR;PST;POS;DECL;NOM-2;NOM-SG	övmüşsün
+övmek	V;INFR;PST;SG;NEG;INTR;NOM-1	övmemiş miymişim
+övmek	V;NEC;INFR;PRS;PROG;NEG;DECL;NOM-2;NOM-SG	övüyor olmamalıymışsın
+övmek	V;NEC;INFR;PRS;PROG;POS;DECL;NOM-3;NOM-SG	övüyor olmalıymış
+övmek	V;NEC;PRS;PROG;NEG;DECL;NOM-3;NOM-SG	övüyor olmamalı
+üretmek	V;IMP;POS;DECL;NOM-2;NOM-PL	üretin
+üretmek	V;IND;FUT;NEG;DECL;NOM-2;NOM-SG	üretmeyeceksin
+üretmek	V;IND;FUT;NEG;INTR;NOM-3;NOM-PL	üretmeyecekler mi
+üretmek	V;IND;FUT;POS;DECL;NOM-2;NOM-PL	üreteceksiniz
+üretmek	V;IND;FUT;PROG;INTR;POS;NOM-1;NOM-SG	üretiyor olacak mıyım
+üretmek	V;IND;PRS;HAB;POS;DECL;NOM-3;NOM-PL	üretirler
+üretmek	V;IND;PST;PERF;NEG;INTR;NOM-1;NOM-PL	üretmedi miydik
+üretmek	V;INFR;FUT;PROG;NEG;DECL;NOM-1;NOM-SG	üretiyor olmayacakmışım
+üretmek	V;INFR;FUT;PROG;POS;DECL;NOM-1;NOM-SG	üretiyor olacakmışım
+üretmek	V;INFR;FUT;PROG;POS;DECL;NOM-2;NOM-SG	üretiyor olacakmışsın
+üretmek	V;INFR;PRS;PROG;POS;DECL;NOM-3;NOM-SG	üretiyormuş
+üretmek	V;INFR;PST;NEG;DECL;NOM-1;NOM-SG	üretmemişim
+üretmek	V;INFR;PST;NEG;INTR;NOM-2;NOM-SG	üretmemiş misin
+üretmek	V;INFR;PST;PERF;NEG;INTR;NOM-3;NOM-SG	üretmemiş miydi
+üretmek	V;INFR;PST;PRSP;NEG;DECL;NOM-2;NOM-PL	üretmiş olmayacaktınız
+üretmek	V;INFR;PST;PRSP;POS;DECL;NOM-1;NOM-PL	üretmiş olacaktık
+üretmek	V;NEC;INFR;PRS;PROG;INTR;POS;NOM-2;NOM-SG	üretiyor olmalı mıymışsın
+üretmek	V;NEC;INFR;PST;NEG;DECL;NOM-1;NOM-SG	üretmemeliymişim
+üretmek	V;NEC;PRS;INTR;POS;NOM-2;NOM-PL	üretmeli misiniz
+üretmek	V;NEC;PRS;PROG;NEG;INTR;NOM-2;NOM-SG	üretiyor olmamalı mısın
+ışın	N;ABL(PL;PSS-2;PSS-PL	ışınlarınızdan
+ışın	N;ABL-SG	ışından
+ışın	N;ABL(SG;PSS-3;PSS-SG	ışınından
+ışın	N;ACC(SG;PSS-2;PSS-PL	ışınınızı
+ışın	N;DAT(SG;PSS-2;PSS-SG	ışınına
+ışın	N;GEN(PL;PSS-1;PSS-PL	ışınlarımızın
+ışın	N;GEN-SG	ışının
+ışın	N;LOC-PL	ışınlarda
+ışın	N;LOC-SG	ışında
+ışın	N;LOC(SG;PSS-2;PSS-PL	ışınınızda
+ışın	N;LOC(SG;PSS-2;PSS-SG	ışınında
+ışın	N;NOM(PL;PSS-2;PSS-PL	ışınlarınız
+ışın	N;NOM-SG	ışın
+ışın	N;PL;IND;PST;NOM-1;NOM-PL	ışınlardık
+ışın	N;PL;INFR;PST;NOM-1;NOM-SG	ışınlarmışım
+ışın	N;PL;PRS;NOM-2;NOM-PL	ışınlarsınız
+ışın	N;SG;IND;PST;NOM-2;NOM-SG	ışındın
+ışın	N;SG;IND;PST;NOM-3;NOM-SG	ışındı
+ışın	N;SG;INFR;PST;NOM-1;NOM-PL	ışınmışız
+ışın	N;SG;INFR;PST;NOM-2;NOM-SG	ışınmışsın
+ışın	N;SG;INFR;PST;NOM-3;NOM-SG	ışınmış
+ışın	N;SG;PRS;NOM-3;NOM-PL	ışınlar
+şırınga	N;ABL(PL;PSS-1;PSS-PL	şırıngalarımızdan
+şırınga	N;ABL(SG;PSS-3;PSS-SG	şırıngasından
+şırınga	N;ACC(PL;PSS-2;PSS-PL	şırıngalarınızı
+şırınga	N;ACC(SG;PSS-3;PSS-SG	şırıngasını
+şırınga	N;DAT-PL	şırıngalara
+şırınga	N;DAT(PL;PSS-2;PSS-SG	şırıngalarına
+şırınga	N;DAT-SG	şırıngaya
+şırınga	N;DAT(SG;PSS-2;PSS-SG	şırıngana
+şırınga	N;GEN(PL;PSS-1;PSS-PL	şırıngalarımızın
+şırınga	N;GEN(SG;PSS-1;PSS-PL	şırıngamızın
+şırınga	N;LOC(PL;PSS-2;PSS-PL	şırıngalarınızda
+şırınga	N;LOC(PL;PSS-3;PSS-SG	şırıngalarında
+şırınga	N;LOC-SG	şırıngada
+şırınga	N;NOM-PL	şırıngalar
+şırınga	N;NOM(SG;PSS-1;PSS-PL	şırıngamız
+şırınga	N;PL;IND;PST;NOM-1;NOM-PL	şırıngalardık
+şırınga	N;PL;INFR;PST;NOM-3;NOM-SG	şırıngalarmış
+şırınga	N;PL;PRS;NOM-1;NOM-PL	şırıngalarız
+şırınga	N;PL;PRS;NOM-2;NOM-SG	şırıngalarsın
+şırınga	N;PL;PRS;NOM-3;NOM-PL	şırıngalardır
+şırınga	N;SG;PRS;NOM-2;NOM-PL	şırıngasınız
