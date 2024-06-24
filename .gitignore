@@ -4,6 +4,6 @@ __pycache__/
 build/
 dist/
 models/
-dummy.ipynb
 lightning_logs/
 predictions/
+*.ipynb
