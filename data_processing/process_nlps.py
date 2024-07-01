@@ -9,7 +9,7 @@ def process_tsv(input_file, output_file):
     df[2] = df[2].apply(lambda x: ','.join([feature.strip() for feature in x.split(',')]))
 
     # Write the modified DataFrame back to a TSV file without the header
-    df.to_csv(output_file, sep='\t', header=False, index=False)
+    df.iloc[1:].to_csv(output_file, sep='\t', header=False, index=False)
 
     print("Processing complete. Output saved to", output_file)
 
