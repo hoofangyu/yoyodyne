@@ -3,30 +3,21 @@ metric:
   name: val_accuracy
   goal: maximize
 parameters:
+  batch_size:
+    values: [16,32,64]
   embedding_size:
     distribution: q_uniform
-    q: 16
-    min: 16
-    max: 512
+    q: 128
+    min: 128
+    max: 1024
   hidden_size:
     distribution: q_uniform
-    q: 32
-    min: 32
-    max: 1024
-  dropout:
-    distribution: uniform
-    min: 0
-    max: 0.5
-  batch_size:
-    distribution: q_uniform
-    q: 16
-    min: 16
-    max: 128
-  learning_rate:
-    distribution: log_uniform_values
-    min: 0.00001
-    max: 0.01
-  label_smoothing:
-    distribution: uniform
-    min: 0.0
-    max: 0.2
+    q: 128
+    min: 128
+    max: 2048
+  source_attention_heads:
+    values: [1,2,4]
+  num_layers:
+    values: [2,3]
+
+ 

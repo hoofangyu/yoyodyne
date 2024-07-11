@@ -35,6 +35,11 @@ def train_sweep(args: argparse.Namespace) -> None:
         if key in args:
             util.log_info(f"Overriding CLI argument: {key}")
         setattr(args, key, value)
+
+    if args.num_layers is not None:
+        args.encoder_layers = args.num_layers
+        args.decoder_layers = args.num_layers
+
     pl.seed_everything(args.seed)
     trainer = train.get_trainer_from_argparse_args(args)
     datamodule = train.get_datamodule_from_argparse_args(args)
@@ -69,7 +74,9 @@ def main() -> None:
         type=int,
         help="The max number of runs for this agent",
     )
+
     args = parser.parse_args()
+
     # Forces log_wandb to True, so that the PTL trainer logs runtime metrics
     # to wandb.
     args.log_wandb = True

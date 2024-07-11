@@ -7,3 +7,4 @@ models/
 lightning_logs/
 predictions/
 *.ipynb
+wandb/

@@ -589,6 +589,11 @@ class BaseEncoderDecoder(pl.LightningModule):
             help="Number of encoder layers. Default: %(default)s.",
         )
         parser.add_argument(
+            "--num_layers",         
+            type=int, 
+            default=None,
+            help="Use this if Number of encoder layers = Number of decoder layers")
+        parser.add_argument(
             "--embedding_size",
             type=int,
             default=defaults.EMBEDDING_SIZE,

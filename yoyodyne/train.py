@@ -385,6 +385,10 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     add_argparse_args(parser)
     args = parser.parse_args()
+    if args.num_layers is not None:
+        args.encoder_layers = args.num_layers
+        args.decoder_layers = args.num_layers
+
     util.log_arguments(args)
     if args.log_wandb:
         wandb.init()
